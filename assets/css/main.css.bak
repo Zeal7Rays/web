@@ -253,21 +253,74 @@ footer {
 }
 
 /* ================= RESPONSIVE ================= */
-@media (max-width: 768px) {
-     .menu-toggle{
-        display:block;
-    }
+@media (max-width:768px){
 
+    .nav-wrapper{
+        position:relative;
+    }
+    
     nav{
-        display:none;
+      display:none;
     }
 
-    .hero h1{
-        font-size:40px;
+    nav.active{
+
+        display:block;
+
+        position:absolute;
+
+        top:100%;
+
+        left:0;
+
+        width:100%;
+
+        background:var(--navy);
+
+        padding:15px 0;
     }
 
-    .hero p{
-        font-size:16px;
+    nav.active .nav-menu{
+
+        flex-direction:column;
+
+        gap:0;
+    }
+
+    nav.active .nav-menu li{
+
+        width:100%;
+    }
+
+    nav.active .nav-menu a{
+
+        display:block;
+
+        padding:15px 25px;
+    }
+
+    .dropdown-menu{
+
+        position:static;
+
+        display:block;
+
+        background:#10284a;
+
+        box-shadow:none;
+
+        min-width:auto;
+    }
+
+    .dropdown-menu a{
+
+        color:#ddd;
+
+        padding-left:40px;
+    }
+    
+    .hero{
+        background-attachment: scroll;
     }
 }
 

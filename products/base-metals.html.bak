@@ -26,21 +26,89 @@
     <div class="container nav-wrapper">
 
         <div class="logo">
-            ZSRK
+            <a href="../index.html">
+                <img src="../assets/images/logo.png"
+                     alt="ZSRK Logo">
+            </a>
         </div>
 
         <nav>
+            <ul class="nav-menu">
+                <li>
+                     <a href="../index.html">HOME</a>
+                </li>
 
-            <ul>
+                <li>
+                     <a href="../about.html">ABOUT US</a>
+                </li>
 
-                <li><a href="../index.html">HOME</a></li>
-                <li><a href="../about.html">ABOUT</a></li>
-                <li><a href="rare-earth.html">PRODUCTS</a></li>
-                <li><a href="../contact.html">CONTACT</a></li>
+                <li class="dropdown">
 
+                  <a href="#">
+                     PRODUCTS
+                  </a>
+
+                <ul class="dropdown-menu">
+
+                   <li>
+                        <a href="../products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
+                   </li>
+
+                    <li>
+                      <a href="../products/high-purity.html">
+                        High Purity Materials
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="../products/strategic-minerals.html">
+                        Strategic Minerals
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="../products/base-metals.html">
+                        Base Metals
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="../products/specialty-products.html">
+                        Specialty Products
+                      </a>
+                    </li>
+                  </ul>
+                </li>  
+                <li>
+                  <a href="../sourcing.html">
+                    GLOBAL SOURCING
+                  </a>
+                </li>
+
+                <li>
+                  <a href="../market-insights.html">
+                    MARKET INSIGHTS
+                  </a>
+                </li>
+
+                <li>
+                  <a href="../contact.html">
+                    CONTACT
+                  </a>
+                </li>
+                  
             </ul>
-
         </nav>
+
+        <div class="lang-switch">
+            KR | EN
+        </div>
+        
+        <div class="menu-toggle">
+          &#9776;
+        </div>
 
     </div>
 
@@ -171,6 +239,78 @@
 
         </div>
 
+
+    </div>
+
+</section>
+
+<section class="section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <h2>
+                Supply Advantages
+            </h2>
+
+        </div>
+
+        <div class="about-grid">
+
+            <div>
+
+                <h3>
+                    Consistent Supply
+                </h3>
+
+                <p>
+                    Reliable sourcing channels and
+                    long-term supplier relationships.
+                </p>
+
+            </div>
+
+            <div>
+
+                <h3>
+                    Global Trade Support
+                </h3>
+
+                <p>
+                    Export documentation and
+                    international logistics coordination.
+                </p>
+
+            </div>
+
+            <div>
+
+                <h3>
+                    Competitive Pricing
+                </h3>
+
+                <p>
+                    Market-based procurement
+                    and sourcing solutions.
+                </p>
+
+            </div>
+
+            <div>
+
+                <h3>
+                    Flexible Quantities
+                </h3>
+
+                <p>
+                    Support for both trial orders
+                    and long-term supply agreements.
+                </p>
+
+            </div>
+
+        </div>
 
     </div>
 
