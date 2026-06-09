@@ -15,8 +15,6 @@
 
 <body>
 
-<script src="./assets/js/main.js?v=250609_1"></script>
-
 <header>
     <div class="container nav-wrapper">
 
@@ -168,6 +166,7 @@
 
 </section>
 
+
 <section class="featured">
 
     <div class="container">
@@ -175,54 +174,123 @@
         <h2>Featured Products</h2>
 
         <div class="product-grid">
+          
+            <a href="./product/ndpr-oxide.html"
+               class="product-link">
 
-            <div class="product-card">
-              <div class="product-image">
-                 <img src="./assets/images/NdPr-metal.jpg" alt="NdPr Oxide">
-              </div>
-               <a href="./product/ndpr-oxide.html">
-                  NdPr Oxide
-               </a>
-            </div>
-            <div class="product-card">
-              <div class="product-image">
-                <img src="./assets/images/NdPr-metal.jpg" alt="NdPr Metal">
-              </div>
-               <a href="./product/ndpr-oxide.html">
-                  NdPr Metal
-               </a>
-            </div>
-            <div class="product-card">
-              <div class="product-image"></div>
-               <a href="./product/ndpr-oxide.html">
-                  Dysprosium Metal
-               </a>
-            </div>
-            <div class="product-card">
-              <div class="product-image"></div>
-               <a href="./product/ndpr-oxide.html">
-                  Terbium Metal
-               </a>
-            </div>
-            <div class="product-card">
-              <div class="product-image"></div>
-               <a href="./product/ndpr-oxide.html">
-                  Copper Powder
-               </a>
-            </div>
-            <div class="product-card">
-              <div class="product-image"></div>
-               <a href="./product/ndpr-oxide.html">
-                  Tungsten
-               </a>
-            </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="./assets/images/NdPr-metal.jpg"
+                            alt="NdPr Oxide">
+                    </div>
+                    <h3>NdPr Oxide</h3>
+
+                    <p>
+                        Essential material for
+                        permanent magnet production.
+                    </p>
+
+                </div>
+
+            </a>
+            <a href="./product/ndpr-oxide.html"
+               class="product-link">
+
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="./assets/images/NdPr-metal.jpg"
+                            alt="NdPr Oxide">
+                    </div>
+                    <h3>NdPr Metal</h3>
+
+                    <p>
+                        High-performance rare earth
+                        metal for magnet manufacturing.
+                    </p>
+
+                </div>
+
+            </a>
+            <a href="./product/ndpr-oxide.html"
+               class="product-link">
+
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="./assets/images/NdPr-metal.jpg"
+                            alt="NdPr Oxide">
+                    </div>
+                    <h3>Terbium Metal</h3>
+
+                    <p>
+                        Critical material for
+                        specialty magnetic applications.
+                    </p>
+
+                </div>
+
+            </a>
+            <a href="./product/ndpr-oxide.html"
+               class="product-link">
+
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="./assets/images/NdPr-metal.jpg"
+                            alt="NdPr Oxide">
+                    </div>
+                    <h3>Dysprosium Metal</h3>
+
+                    <p>
+                        Enhances thermal stability
+                        in high-performance magnets.
+                    </p>
+
+                </div>
+
+            </a>
+            <a href="./product/hp-copper-powder.html"
+               class="product-link">
+
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="./assets/images/hp-copper-powder.jpg"
+                            alt="Copper Powder">
+                    </div>
+                    <h3>Copper Powder</h3>
+
+                    <p>
+                        High conductivity copper powder
+                        for advanced industrial applications.
+                    </p>
+
+                </div>
+
+            </a>
+            <a href="./product/tungsten.html"
+               class="product-link">
+
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="./assets/images/tungsten.jpg"
+                            alt="NdPr Oxide">
+                    </div>
+                    <h3>Tungsten</h3>
+
+                    <p>
+                        High-performance refractory metal
+                        with exceptional durability.
+                    </p>
+
+                </div>
+
+            </a>
+            
         </div>
 
     </div>
 
 </section>
 
-<section class="about">
+<section class="section">
 
     <div class="container">
 
@@ -305,7 +373,7 @@
 
 </footer>
 
-
+<script src="./assets/js/main.js?v=250609"></script>
 
 </body>
 </html>

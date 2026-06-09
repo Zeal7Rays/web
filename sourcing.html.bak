@@ -15,7 +15,7 @@
           content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250609_1">
+          href="./assets/css/main.css?v=250609">
 
 </head>
 
@@ -26,21 +26,89 @@
     <div class="container nav-wrapper">
 
         <div class="logo">
-            ZSRK
+            <a href="./index.html">
+                <img src="./assets/images/logo.png"
+                     alt="ZSRK Logo">
+            </a>
         </div>
 
         <nav>
+            <ul class="nav-menu">
+                <li>
+                     <a href="./index.html">HOME</a>
+                </li>
 
-            <ul>
+                <li>
+                     <a href="./about.html">ABOUT US</a>
+                </li>
 
-                <li><a href="../index.html">HOME</a></li>
-                <li><a href="../about.html">ABOUT</a></li>
-                <li><a href="rare-earth.html">PRODUCTS</a></li>
-                <li><a href="../contact.html">CONTACT</a></li>
+                <li class="dropdown">
 
+                  <a href="#">
+                     PRODUCTS
+                  </a>
+
+                <ul class="dropdown-menu">
+
+                   <li>
+                        <a href="./products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
+                   </li>
+
+                    <li>
+                      <a href="./products/high-purity.html">
+                        High Purity Materials
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./products/strategic-minerals.html">
+                        Strategic Minerals
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./products/base-metals.html">
+                        Base Metals
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./products/specialty-products.html">
+                        Specialty Products
+                      </a>
+                    </li>
+                  </ul>
+                </li>  
+                <li>
+                  <a href="./sourcing.html">
+                    GLOBAL SOURCING
+                  </a>
+                </li>
+
+                <li>
+                  <a href="./market-insights.html">
+                    MARKET INSIGHTS
+                  </a>
+                </li>
+
+                <li>
+                  <a href="./contact.html">
+                    CONTACT
+                  </a>
+                </li>
+                  
             </ul>
-
         </nav>
+
+        <div class="lang-switch">
+            KR | EN
+        </div>
+        
+        <div class="menu-toggle">
+          &#9776;
+        </div>
 
     </div>
 

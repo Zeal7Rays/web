@@ -179,7 +179,7 @@ nav a:hover {
 /* ================= PAGE BANNER ================= */
 .page-banner {
     background: linear-gradient(rgba(11,31,58,.9), rgba(11,31,58,.9)),
-                url("../images/ndpr-oxide.jpg");
+                url("../images/ndpr-metal.jpg");
 
     background-size: cover;
     background-position: center;
@@ -253,76 +253,7 @@ footer {
 }
 
 /* ================= RESPONSIVE ================= */
-@media (max-width:768px){
 
-    .nav-wrapper{
-        position:relative;
-    }
-    
-    nav{
-      display:none;
-    }
-
-    nav.active{
-
-        display:block;
-
-        position:absolute;
-
-        top:100%;
-
-        left:0;
-
-        width:100%;
-
-        background:var(--navy);
-
-        padding:15px 0;
-    }
-
-    nav.active .nav-menu{
-
-        flex-direction:column;
-
-        gap:0;
-    }
-
-    nav.active .nav-menu li{
-
-        width:100%;
-    }
-
-    nav.active .nav-menu a{
-
-        display:block;
-
-        padding:15px 25px;
-    }
-
-    .dropdown-menu{
-
-        position:static;
-
-        display:block;
-
-        background:#10284a;
-
-        box-shadow:none;
-
-        min-width:auto;
-    }
-
-    .dropdown-menu a{
-
-        color:#ddd;
-
-        padding-left:40px;
-    }
-    
-    .hero{
-        background-attachment: scroll;
-    }
-}
 
 .dropdown > a::after {
     content: " ▼";
@@ -550,4 +481,106 @@ header.shrink .logo img {
 .product-card:hover .product-image img {
 
     transform: scale(1.05);
+}
+
+/* =====================================
+   MOBILE MENU
+===================================== */
+
+@media (max-width:768px){
+
+    .nav-wrapper{
+        position:relative;
+    }
+
+    /* 햄버거 버튼 표시 */
+    .menu-toggle{
+        display:block !important;
+        color:#fff;
+        font-size:30px;
+        cursor:pointer;
+    }
+
+    /* 기본 메뉴 숨김 */
+    nav{
+        display:none;
+    }
+
+    /* 햄버거 클릭시 메뉴 표시 */
+    nav.active{
+
+        display:block !important;
+
+        position:absolute;
+
+        top:100%;
+
+        left:0;
+
+        width:100%;
+
+        background:var(--navy);
+
+        z-index:9999;
+
+        padding:10px 0;
+    }
+
+    /* 세로 메뉴 */
+    nav.active .nav-menu{
+
+        flex-direction:column;
+
+        align-items:flex-start;
+
+        gap:0;
+    }
+
+    nav.active .nav-menu li{
+
+        width:100%;
+    }
+
+    nav.active .nav-menu a{
+
+        display:block;
+
+        width:100%;
+
+        padding:15px 20px;
+    }
+
+    /* PRODUCTS 하위 메뉴 */
+    nav.active .dropdown-menu{
+
+        position:static;
+
+        display:block;
+
+        background:#10284a;
+
+        box-shadow:none;
+
+        width:100%;
+
+        min-width:auto;
+    }
+
+    nav.active .dropdown-menu a{
+
+        color:#ddd;
+
+        padding-left:40px;
+    }
+
+    /* 모바일 Hero 최적화 */
+    .hero{
+        background-attachment:scroll;
+    }
+
+    /* 언어선택 우측 정렬 */
+    .lang-switch{
+        margin-left:auto;
+        margin-right:15px;
+    }
 }

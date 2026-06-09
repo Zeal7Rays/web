@@ -15,7 +15,7 @@
           content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250609_1">
+          href="../assets/css/main.css?v=250609">
 
 </head>
 
@@ -159,7 +159,7 @@
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../assets/images/NdPr-metal.jpg"
+                        <img src="../assets/images/copper-cathode.jpg"
                             alt="Copper Cathode">
                     </div>
                     <h3>Copper Cathode</h3>
@@ -367,6 +367,8 @@
     </div>
 
 </footer>
+
+<script src="../assets/js/main.js?v=250609"></script>
 
 </body>
 
