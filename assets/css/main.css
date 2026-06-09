@@ -253,6 +253,12 @@ footer {
 }
 
 /* ================= RESPONSIVE ================= */
+오빠, CSS 확인했어. 😎
+
+원인 찾았다.
+
+현재 CSS는 모바일에서
+
 @media (max-width: 768px) {
      .menu-toggle{
         display:block;
@@ -261,13 +267,85 @@ footer {
     nav{
         display:none;
     }
+}
 
-    .hero h1{
-        font-size:40px;
+까지만 되어 있어.
+
+즉,
+
+☰ 버튼은 보여준다
+메뉴는 숨긴다
+
+까지만 해놓고
+
+☰ 눌렀을 때 메뉴를 다시 보여주는 코드
+
+가 없어.
+
+1단계 - CSS 추가
+
+main.css 맨 아래에 추가
+
+@media (max-width:768px){
+
+    .nav-wrapper{
+        position:relative;
     }
 
-    .hero p{
-        font-size:16px;
+    nav.active{
+
+        display:block;
+
+        position:absolute;
+
+        top:100%;
+
+        left:0;
+
+        width:100%;
+
+        background:var(--navy);
+
+        padding:15px 0;
+    }
+
+    nav.active .nav-menu{
+
+        flex-direction:column;
+
+        gap:0;
+    }
+
+    nav.active .nav-menu li{
+
+        width:100%;
+    }
+
+    nav.active .nav-menu a{
+
+        display:block;
+
+        padding:15px 25px;
+    }
+
+    .dropdown-menu{
+
+        position:static;
+
+        display:block;
+
+        background:#10284a;
+
+        box-shadow:none;
+
+        min-width:auto;
+    }
+
+    .dropdown-menu a{
+
+        color:#ddd;
+
+        padding-left:40px;
     }
 }
 

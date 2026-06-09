@@ -15,7 +15,7 @@
           content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css">
+          href="../assets/css/main.css?v=250609">
 
 </head>
 
@@ -90,7 +90,10 @@
                class="product-link">
 
                 <div class="product-card">
-                    <div class="product-image"></div>
+                    <div class="product-image">
+                        <img src="../assets/images/NdPr-metal.jpg"
+                            alt="NdPr Oxide">
+                    </div>
                     <h3>NdPr Oxide</h3>
 
                     <p>
@@ -106,7 +109,10 @@
                class="product-link">
 
                 <div class="product-card">
-                    <div class="product-image"></div>
+                    <div class="product-image">
+                        <img src="../assets/images/NdPr-metal.jpg"
+                            alt="NdPr Metal">
+                    </div>
                     <h3>NdPr Metal</h3>
 
                     <p>
@@ -122,7 +128,10 @@
                class="product-link">
 
                 <div class="product-card">
-                    <div class="product-image"></div>
+                    <div class="product-image">
+                        <img src="../assets/images/NdPr-metal.jpg"
+                            alt="Dysprosium Metal">
+                    </div>
                     <h3>Dysprosium Metal</h3>
 
                     <p>
@@ -138,7 +147,10 @@
                class="product-link">
 
                 <div class="product-card">
-
+                    <div class="product-image">
+                        <img src="../assets/images/NdPr-metal.jpg"
+                            alt="Terbium Metal">
+                    </div>
                     <h3>Terbium Metal</h3>
 
                     <p>
@@ -154,7 +166,10 @@
                class="product-link">
 
                 <div class="product-card">
-
+                    <div class="product-image">
+                        <img src="../assets/images/NdPr-metal.jpg"
+                            alt="Niobium Metal">
+                    </div>
                     <h3>Niobium Metal</h3>
 
                     <p>
@@ -170,7 +185,10 @@
                class="product-link">
 
                 <div class="product-card">
-
+                    <div class="product-image">
+                        <img src="../assets/images/NdPr-metal.jpg"
+                            alt="Rare Earth Concentrate">
+                    </div>
                     <h3>Rare Earth Concentrate</h3>
 
                     <p>
@@ -277,7 +295,7 @@
         </p>
 
         <p>
-            sales@zsrkmaterials.com
+            sales@z7rays.com
         </p>
 
     </div>

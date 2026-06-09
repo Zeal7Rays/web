@@ -385,6 +385,7 @@ header.shrink .logo img {
     top:100%;
     left:0;
 
+    width:max-content;
     min-width:250px;
 
     background:#fff;

@@ -15,7 +15,7 @@
           content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250609">
+          href="../assets/css/main.css?v=250609_1">
 
 </head>
 
@@ -55,13 +55,12 @@
         </span>
 
         <h1>
-            Rare Earth Materials
+            High Purity Materials
         </h1>
 
         <p>
-            Strategic rare earth materials supporting
-            electric vehicles, renewable energy,
-            advanced manufacturing and high-tech industries.
+            Advanced high-purity materials for electronics,
+            semiconductor, aerospace, energy and industrial applications.
         </p>
 
     </div>
@@ -86,114 +85,137 @@
 
         <div class="product-grid">
 
-            <a href="../product/ndpr-oxide.html"
+            <a href="../product/hp-copper-powder.html"
                class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/NdPr-metal.jpg"
-                            alt="NdPr Oxide">
+                            alt="High Purity Copper Powder">
                     </div>
-                    <h3>NdPr Oxide</h3>
+                    <h3>High Purity Copper Powder</h3>
 
                     <p>
-                        Essential material for
-                        permanent magnet production.
+                        High conductivity copper powder
+                        for advanced industrial applications.
                     </p>
 
                 </div>
 
             </a>
 
-            <a href="../product/ndpr-metal.html"
+            <a href="../product/uhp-copper-powder.html"
                class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/NdPr-metal.jpg"
-                            alt="NdPr Metal">
+                            alt="Ultra High Purity Copper Powder">
                     </div>
-                    <h3>NdPr Metal</h3>
+                    <h3>Ultra High Purity Copper Powder</h3>
 
                     <p>
-                        High-performance rare earth
-                        metal for magnet manufacturing.
+                        Premium-grade copper powder
+                        for high-end applications.
                     </p>
 
                 </div>
 
             </a>
 
-            <a href="../product/dysprosium-metal.html"
+            <a href="../product/hp-copper-ingot.html"
                class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/NdPr-metal.jpg"
-                            alt="Dysprosium Metal">
+                            alt="High Purity Copper Ingot">
                     </div>
-                    <h3>Dysprosium Metal</h3>
+                    <h3>High Purity Copper Ingot</h3>
 
                     <p>
-                        Enhances thermal stability
-                        in high-performance magnets.
+                        High purity copper ingots
+                        for industrial processing.
                     </p>
 
                 </div>
 
             </a>
 
-            <a href="../product/terbium-metal.html"
+            <a href="../product/hp-iron.html"
                class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/NdPr-metal.jpg"
-                            alt="Terbium Metal">
+                            alt="High Purity Iron">
                     </div>
-                    <h3>Terbium Metal</h3>
+                    <h3>High Purity Iron</h3>
 
                     <p>
-                        Critical material for
-                        specialty magnetic applications.
+                        High-grade iron materials
+                        for specialty industries.
                     </p>
 
                 </div>
 
             </a>
 
-            <a href="../product/niobium-metal.html"
+            <a href="../product/nickel-wire.html"
                class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/NdPr-metal.jpg"
-                            alt="Niobium Metal">
+                            alt="Nickel Wire">
                     </div>
-                    <h3>Niobium Metal</h3>
+                    <h3>Nickel Wire</h3>
 
                     <p>
-                        Strategic metal for
-                        advanced industrial applications.
+                        Precision nickel wire
+                        for industrial applications.
                     </p>
 
                 </div>
 
             </a>
 
-            <a href="../product/rare-earth-concentrate.html"
+            <a href="../product/tungsten.html"
                class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/NdPr-metal.jpg"
-                            alt="Rare Earth Concentrate">
+                            alt="Tungsten">
                     </div>
-                    <h3>Rare Earth Concentrate</h3>
+                    <h3>Tungsten</h3>
 
                     <p>
-                        Primary raw material
-                        for rare earth processing.
+                        High-performance refractory metal
+                        with exceptional durability.
+                    </p>
+
+                </div>
+
+            </a>
+            
+            <a href="../product/rhodium.html"
+              class="product-link">
+
+                <div class="product-card">
+
+                    <div class="product-image">
+                        <img src="../assets/images/NdPr-metal.jpg"
+                            alt="Rhodium">
+                    </div>
+
+                    <h3>
+                        Rhodium
+                    </h3>
+
+                    <p>
+                        Precious metal for catalytic,
+                        industrial and specialty applications.
                     </p>
 
                 </div>
@@ -220,29 +242,12 @@
 
         <div class="applications-grid">
 
-            <div class="app-card">
-                Electric Vehicles
-            </div>
-
-            <div class="app-card">
-                Wind Energy
-            </div>
-
-            <div class="app-card">
-                Industrial Automation
-            </div>
-
-            <div class="app-card">
-                Electronics
-            </div>
-
-            <div class="app-card">
-                Aerospace
-            </div>
-
-            <div class="app-card">
-                Advanced Manufacturing
-            </div>
+            <div class="app-card">Semiconductor</div>
+            <div class="app-card">Electronics</div>
+            <div class="app-card">Aerospace</div>
+            <div class="app-card">Battery Materials</div>
+            <div class="app-card">Industrial Manufacturing</div>
+            <div class="app-card">Research & Development</div>
 
         </div>
 
@@ -255,13 +260,13 @@
     <div class="container">
 
         <h2>
-            Looking for Rare Earth Materials?
+            Request a Material Sourcing Consultation
         </h2>
 
         <p style="text-align:center; margin-bottom:30px;">
 
-            Contact our team for specifications,
-            availability and quotations.
+            Contact ZEAL 7RAYS KOREA for product specifications,
+            availability, pricing and global sourcing support.
 
         </p>
 

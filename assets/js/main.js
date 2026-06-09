@@ -10,15 +10,7 @@
 
         menuBtn.addEventListener("click", () => {
 
-            if(nav.style.display === "block"){
-
-                nav.style.display = "none";
-
-            }else{
-
-                nav.style.display = "block";
-
-            }
+            nav.classList.toggle("active");
 
         });
 
@@ -83,18 +75,3 @@ function initFadeIn() {
     elements.forEach(el => observer.observe(el));
 }
 
-window.addEventListener("scroll", function () {
-
-    const header = document.querySelector("header");
-
-    if (window.scrollY > 80) {
-
-        header.classList.add("header-scrolled");
-
-    } else {
-
-        header.classList.remove("header-scrolled");
-
-    }
-
-});

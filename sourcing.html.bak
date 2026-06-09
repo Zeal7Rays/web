@@ -1,0 +1,315 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>
+        Rare Earth Materials Supplier | ZSRK
+    </title>
+
+    <meta name="description"
+          content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
+
+    <link rel="stylesheet"
+          href="../assets/css/main.css?v=250609_1">
+
+</head>
+
+<body>
+
+<header>
+
+    <div class="container nav-wrapper">
+
+        <div class="logo">
+            ZSRK
+        </div>
+
+        <nav>
+
+            <ul>
+
+                <li><a href="../index.html">HOME</a></li>
+                <li><a href="../about.html">ABOUT</a></li>
+                <li><a href="rare-earth.html">PRODUCTS</a></li>
+                <li><a href="../contact.html">CONTACT</a></li>
+
+            </ul>
+
+        </nav>
+
+    </div>
+
+</header>
+
+<section class="page-banner">
+
+    <div class="container">
+
+        <span class="product-category">
+            GLOBAL SOURCING
+        </span>
+
+        <h1>
+            Strategic Sourcing Solutions
+        </h1>
+
+        <p>
+            Connecting global resources with industrial demand through reliable sourcing and supply chain expertise.
+        </p>
+
+    </div>
+
+</section>
+
+<section class="section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <h2>
+                What We Do
+            </h2>
+
+        </div>
+
+        <p>
+
+            ZSRK supports customers worldwide by identifying qualified suppliers,
+            securing competitive sourcing opportunities,
+            and coordinating international supply chains.
+
+        </p>
+
+        <p>
+
+            We specialize in strategic materials,
+            rare earth products,
+            high-purity materials,
+            industrial minerals and non-ferrous metals.
+
+        </p>
+
+    </div>
+
+</section>
+
+<section class="section bg-light">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <h2>
+                Our Sourcing Process
+            </h2>
+
+        </div>
+
+        <div class="applications-grid">
+
+            <div class="app-card">
+
+                <h3>01</h3>
+
+                <p>
+                    Requirement Review
+                </p>
+
+            </div>
+
+            <div class="app-card">
+
+                <h3>02</h3>
+
+                <p>
+                    Supplier Selection
+                </p>
+
+            </div>
+
+            <div class="app-card">
+
+                <h3>03</h3>
+
+                <p>
+                    Sample & Verification
+                </p>
+
+            </div>
+
+            <div class="app-card">
+
+                <h3>04</h3>
+
+                <p>
+                    Commercial Supply
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <h2>
+                Why Work With ZEAL 7RAYS KOREA
+            </h2>
+
+        </div>
+
+        <div class="about-grid">
+
+            <div>
+
+                <h3>
+                    Supplier Network
+                </h3>
+
+                <p>
+                    Access to qualified suppliers and strategic sourcing channels.
+                </p>
+
+            </div>
+
+            <div>
+
+                <h3>
+                    Quality Verification
+                </h3>
+
+                <p>
+                    Support for COA, inspection and quality documentation.
+                </p>
+
+            </div>
+
+            <div>
+
+                <h3>
+                    Export Experience
+                </h3>
+
+                <p>
+                    International trade support and logistics coordination.
+                </p>
+
+            </div>
+
+            <div>
+
+                <h3>
+                    Long-Term Partnership
+                </h3>
+
+                <p>
+                    Building sustainable business relationships worldwide.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="section bg-light">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <h2>
+                Industries We Support
+            </h2>
+
+        </div>
+
+        <div class="applications-grid">
+
+            <div class="app-card">Electric Vehicles</div>
+
+            <div class="app-card">Renewable Energy</div>
+
+            <div class="app-card">Electronics</div>
+
+            <div class="app-card">Industrial Manufacturing</div>
+
+            <div class="app-card">Aerospace</div>
+
+            <div class="app-card">Advanced Materials</div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="contact">
+
+    <div class="container">
+
+        <h2>
+            Looking for a Reliable Sourcing Partner?
+        </h2>
+
+        <p style="text-align:center; margin-bottom:30px;">
+
+            Contact ZEAL 7RAYS KOREA to discuss your sourcing requirements and supply chain needs.
+
+        </p>
+
+        <div style="text-align:center;">
+
+            <a href="contact.html"
+               class="btn btn-gold">
+
+                CONTACT US
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <div class="container">
+
+        <h3>ZEAL 7RAYS KOREA Co., Ltd.</h3>
+
+        <p>
+            Strategic Materials & Global Resources
+        </p>
+
+        <p>
+            Seoul, Republic of Korea
+        </p>
+
+        <p>
+            sales@z7rays.com
+        </p>
+
+    </div>
+
+</footer>
+
+</body>
+
+</html>
