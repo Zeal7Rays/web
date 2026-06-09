@@ -1,0 +1,84 @@
+﻿document.addEventListener("DOMContentLoaded", () => {
+
+    const menuBtn =
+        document.querySelector(".menu-toggle");
+
+    const nav =
+        document.querySelector("nav");
+
+    if(menuBtn){
+
+        menuBtn.addEventListener("click", () => {
+
+            if(nav.style.display === "block"){
+
+                nav.style.display = "none";
+
+            }else{
+
+                nav.style.display = "block";
+
+            }
+
+        });
+
+    }
+
+});
+
+
+// ===============================
+// 1. Language Switch
+// ===============================
+function initLangSwitch() {
+
+    const langBtn = document.querySelector(".lang-switch");
+    if (!langBtn) return;
+
+    langBtn.addEventListener("click", () => {
+        alert("Language switch will be available in V1.1");
+    });
+}
+
+
+// ===============================
+// 2. Header Shrink on Scroll
+// ===============================
+function initHeaderShrink() {
+
+    const header = document.querySelector("header");
+    if (!header) return;
+
+    window.addEventListener("scroll", () => {
+
+        if (window.scrollY > 80) {
+            header.classList.add("shrink");
+        } else {
+            header.classList.remove("shrink");
+        }
+
+    });
+}
+
+
+// ===============================
+// 3. Fade-in Animation
+// ===============================
+function initFadeIn() {
+
+    const elements = document.querySelectorAll(".fade-in");
+
+    if (!elements.length) return;
+
+    const observer = new IntersectionObserver((entries) => {
+
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add("show");
+            }
+        });
+
+    });
+
+    elements.forEach(el => observer.observe(el));
+}
