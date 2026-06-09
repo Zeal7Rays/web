@@ -1,0 +1,83 @@
+﻿<footer>
+
+    <div class="container">
+
+        <div class="footer-grid">
+
+            <div class="footer-col">
+
+                <h3>Z7RAYS KOREA</h3>
+
+                <p>
+                    Supplier of Rare Earth Materials,
+                    High Purity Metals,
+                    Strategic Minerals,
+                    Base Metals and Global Sourcing Solutions.
+                </p>
+
+            </div>
+
+            <div class="footer-col">
+
+                <h4>Products</h4>
+
+                <ul>
+
+                    <li>
+                        <a href="../products/rare-earth.html">
+                            Rare Earth Materials
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="../products/high-purity.html">
+                            High Purity Materials
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="../products/strategic-minerals.html">
+                            Strategic Minerals
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="../products/base-metals.html">
+                            Base Metals
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="../products/specialty-products.html">
+                            Specialty Products
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+            <div class="footer-col">
+
+                <h4>Contact</h4>
+
+                <p>Email : sales@z7rays.com</p>
+
+                <p>Tel : +82-00-0000-0000</p>
+
+                <p>Republic of Korea</p>
+
+            </div>
+
+        </div>
+
+        <div class="footer-bottom">
+
+            ⓒ 2026 Z7RAYS KOREA.
+            All Rights Reserved.
+
+        </div>
+
+    </div>
+
+</footer>

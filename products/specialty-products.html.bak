@@ -34,7 +34,7 @@
 
         <span class="breadcrumb-sep">›</span>
 
-        <span>Rare Earth Materials</span>
+        <span>Specialty Products</span>
 
     </div>
 </section>
@@ -67,7 +67,7 @@
                 <ul class="dropdown-menu">
 
                    <li>
-                        <a href="../products/rare-earth.html" class="active">
+                        <a href="../products/rare-earth.html">
                            Rare Earth Materials
                         </a>
                    </li>
@@ -91,7 +91,7 @@
                     </li>
 
                     <li>
-                      <a href="../products/specialty-products.html">
+                      <a href="../products/specialty-products.html"  class="active">
                         Specialty Products
                       </a>
                     </li>
@@ -139,13 +139,12 @@
         </span>
 
         <h1>
-            Rare Earth Materials
+            Specialty Products
         </h1>
 
         <p>
-            Strategic rare earth materials supporting
-            electric vehicles, renewable energy,
-            advanced manufacturing and high-tech industries.
+            Customized Trading Solutions
+            for Industrial and Consumer Markets
         </p>
 
     </div>
@@ -159,176 +158,71 @@
         <div class="section-title">
 
             <h2>
-                Product Portfolio
+                Specialty Products
             </h2>
 
             <p>
-                Explore our range of rare earth materials.
+                 ZEAL 7RAYS KOREA supplies a range of
+                specialty products through its
+                global sourcing network.
+
+                From industrial chemicals and
+                agricultural materials to premium
+                consumer products, we provide
+                reliable sourcing solutions tailored
+                to customer requirements.
             </p>
 
         </div>
 
         <div class="product-grid">
 
-            <a href="../product/ndpr-oxide.html"
-               class="product-link">
+          <div class="product-card">
 
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/NdPr-metal.jpg"
-                            alt="NdPr Oxide">
-                    </div>
-                    <h3>NdPr Oxide</h3>
-
-                    <p>
-                        Essential material for
-                        permanent magnet production.
-                    </p>
-
-                </div>
-
-            </a>
-
-            <a href="../product/ndpr-metal.html"
-               class="product-link">
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/NdPr-metal.jpg"
-                            alt="NdPr Metal">
-                    </div>
-                    <h3>NdPr Metal</h3>
-
-                    <p>
-                        High-performance rare earth
-                        metal for magnet manufacturing.
-                    </p>
-
-                </div>
-
-            </a>
-
-            <a href="../product/dysprosium-metal.html"
-               class="product-link">
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/dysprosium-metal.jpg"
-                            alt="Dysprosium Metal">
-                    </div>
-                    <h3>Dysprosium Metal</h3>
-
-                    <p>
-                        Enhances thermal stability
-                        in high-performance magnets.
-                    </p>
-
-                </div>
-
-            </a>
-
-            <a href="../product/terbium-metal.html"
-               class="product-link">
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/NdPr-metal.jpg"
-                            alt="Terbium Metal">
-                    </div>
-                    <h3>Terbium Metal</h3>
-
-                    <p>
-                        Critical material for
-                        specialty magnetic applications.
-                    </p>
-
-                </div>
-
-            </a>
-
-            <a href="../product/niobium-metal.html"
-               class="product-link">
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/NdPr-metal.jpg"
-                            alt="Niobium Metal">
-                    </div>
-                    <h3>Niobium Metal</h3>
-
-                    <p>
-                        Strategic metal for
-                        advanced industrial applications.
-                    </p>
-
-                </div>
-
-            </a>
-
-            <a href="../product/rare-earth-concentrate.html"
-               class="product-link">
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/NdPr-metal.jpg"
-                            alt="Rare Earth Concentrate">
-                    </div>
-                    <h3>Rare Earth Concentrate</h3>
-
-                    <p>
-                        Primary raw material
-                        for rare earth processing.
-                    </p>
-
-                </div>
-
-            </a>
-
-        </div>
-
-    </div>
-
-</section>
-
-<section class="section bg-light">
-
-    <div class="container">
-
-        <div class="section-title">
-
-            <h2>
-                Industries Served
-            </h2>
-
-        </div>
-
-        <div class="applications-grid">
-
-            <div class="app-card">
-                Electric Vehicles
+            <div class="product-image">
+              <img src="../assets/images/urea.jpg"
+                 alt="Urea">
             </div>
 
-            <div class="app-card">
-                Wind Energy
+            <h3>Urea</h3>
+
+            <p>
+              Industrial and agricultural grade urea.
+            </p>
+
+          </div>
+
+          <div class="product-card">
+
+            <div class="product-image">
+              <img src="../assets/images/sulfur.jpg"
+                 alt="Sulfur">
             </div>
 
-            <div class="app-card">
-                Industrial Automation
+            <h3>Sulfur</h3>
+
+            <p>
+              Sulfur products for industrial applications.
+            </p>
+
+          </div>
+
+          <div class="product-card">
+
+            <div class="product-image">
+              <img src="../assets/images/caviar-cosmetics.jpg"
+                 alt="Caviar Cosmetics">
             </div>
 
-            <div class="app-card">
-                Electronics
-            </div>
+            <h3>Caviar Cosmetics</h3>
 
-            <div class="app-card">
-                Aerospace
-            </div>
+            <p>
+              Premium skincare products containing caviar extract.
+            </p>
 
-            <div class="app-card">
-                Advanced Manufacturing
-            </div>
+          </div>
 
-        </div>
+      </div>
 
     </div>
 
@@ -339,13 +233,14 @@
     <div class="container">
 
         <h2>
-            Looking for Rare Earth Materials?
+            Looking for Specialty Products?
         </h2>
 
         <p style="text-align:center; margin-bottom:30px;">
 
-            Contact our team for specifications,
-            availability and quotations.
+            Let our global sourcing team help you find
+            reliable products and competitive solutions
+            for your business.
 
         </p>
 
@@ -434,7 +329,7 @@
 
         <div class="footer-bottom">
 
-            ⓒ 2026 ZEAL 7RAYS KOREA CO., LTD.  
+            ⓒ 2026 ZEAL 7RAYS KOREA Co., Ltd.  
             All Rights Reserved.
 
         </div>

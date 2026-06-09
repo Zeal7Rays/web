@@ -28,13 +28,13 @@
 
         <a href="../index.html">Home</a>
 
-        <span class="breadcrumb-sep">›</span>
+        <span class="breadcrumb-sep">?</span>
 
         <a href="../products.html">Products</a>
 
-        <span class="breadcrumb-sep">›</span>
+        <span class="breadcrumb-sep">?</span>
 
-        <span>Rare Earth Materials</span>
+        <span>Specialty Products</span>
 
     </div>
 </section>
@@ -67,7 +67,7 @@
                 <ul class="dropdown-menu">
 
                    <li>
-                        <a href="../products/rare-earth.html" class="active">
+                        <a href="../products/rare-earth.html">
                            Rare Earth Materials
                         </a>
                    </li>
@@ -91,7 +91,7 @@
                     </li>
 
                     <li>
-                      <a href="../products/specialty-products.html">
+                      <a href="../products/specialty-products.html"  class="active">
                         Specialty Products
                       </a>
                     </li>
@@ -139,13 +139,12 @@
         </span>
 
         <h1>
-            Rare Earth Materials
+            Specialty Products
         </h1>
 
         <p>
-            Strategic rare earth materials supporting
-            electric vehicles, renewable energy,
-            advanced manufacturing and high-tech industries.
+            Customized Trading Solutions
+            for Industrial and Consumer Markets
         </p>
 
     </div>
@@ -213,7 +212,7 @@
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../assets/images/dysprosium-metal.jpg"
+                        <img src="../assets/images/NdPr-metal.jpg"
                             alt="Dysprosium Metal">
                     </div>
                     <h3>Dysprosium Metal</h3>
@@ -434,7 +433,7 @@
 
         <div class="footer-bottom">
 
-            ⓒ 2026 ZEAL 7RAYS KOREA CO., LTD.  
+            ⓒ 2026 ZEAL 7RAYS KOREA Co., Ltd.  
             All Rights Reserved.
 
         </div>

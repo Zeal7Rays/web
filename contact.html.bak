@@ -1,0 +1,301 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Z7RAYS KOREA</title>
+
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body>
+
+<header>
+
+<section class="breadcrumb">
+    <div class="container">
+
+        <a href="./index.html">Home</a>
+
+        <span class="breadcrumb-sep">›</span>  
+
+        <span>Global Sourcing</span>
+
+    </div>
+</section>
+
+    <div class="container nav-wrapper">
+
+        <div class="logo">
+            <a href="./index.html">
+                <img src="./assets/images/logo.png"
+                     alt="ZSRK Logo">
+            </a>
+        </div>
+
+        <nav>
+            <ul class="nav-menu">
+                <li>
+                     <a href="./index.html">HOME</a>
+                </li>
+
+                <li>
+                     <a href="./about.html">ABOUT US</a>
+                </li>
+
+                <li class="dropdown">
+
+                  <a href="#">
+                     PRODUCTS
+                  </a>
+
+                <ul class="dropdown-menu">
+
+                   <li>
+                        <a href="./products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
+                   </li>
+
+                    <li>
+                      <a href="./products/high-purity.html">
+                        High Purity Materials
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./products/strategic-minerals.html">
+                        Strategic Minerals
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./products/base-metals.html">
+                        Base Metals
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="./products/specialty-products.html">
+                        Specialty Products
+                      </a>
+                    </li>
+                  </ul>
+                </li>  
+                <li>
+                  <a href="./sourcing.html">
+                    GLOBAL SOURCING
+                  </a>
+                </li>
+
+                <li>
+                  <a href="./market-insights.html">
+                    MARKET INSIGHTS
+                  </a>
+                </li>
+
+                <li>
+                  <a href="./contact.html"  class="active">
+                    CONTACT
+                  </a>
+                </li>
+                  
+            </ul>
+        </nav>
+
+        <div class="lang-switch">
+            KR | EN
+        </div>
+        
+        <div class="menu-toggle">
+          &#9776;
+        </div>
+
+    </div>
+
+</header>
+
+<section class="page-hero">
+
+    <div class="container">
+
+        <h1>Contact Us</h1>
+
+        <p>
+            Connect with our team for sourcing inquiries,
+            quotations and strategic material requirements.
+        </p>
+
+    </div>
+
+</section>
+
+
+
+<section class="contact-section">
+
+    <div class="container contact-grid">
+
+        <div class="contact-info">
+
+            <h2>Get In Touch</h2>
+
+            <p>
+                We support global sourcing of rare earth materials,
+                strategic minerals, high purity metals and specialty products.
+            </p>
+
+            <div class="info-item">
+
+                <h3>Email</h3>
+                <p>sales@z7rays.com</p>
+
+            </div>
+
+            <div class="info-item">
+
+                <h3>Location</h3>
+                <p>#713-L1, 190 Gimpo Hangang9-ro, 75beon-gil, Gimpo-si, Gyeonggi-do, Republic of Korea</p>
+
+            </div>
+
+            <div class="info-item">
+
+                <h3>Business Hours</h3>
+                <p>Mon - Fri / 09:00 - 18:00 KST</p>
+
+            </div>
+
+        </div>
+
+        <div class="contact-form-wrapper">
+
+            <form class="contact-form">
+
+                <input
+                    type="text"
+                    placeholder="Company Name"
+                    required
+                >
+
+                <input
+                    type="text"
+                    placeholder="Contact Person"
+                    required
+                >
+
+                <input
+                    type="email"
+                    placeholder="Email Address"
+                    required
+                >
+
+                <input
+                    type="text"
+                    placeholder="Material of Interest"
+                >
+
+                <textarea
+                    rows="6"
+                    placeholder="Please describe your inquiry..."
+                    required
+                ></textarea>
+
+                <button type="submit">
+
+                    Send Inquiry
+
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <div class="container">
+
+        <div class="footer-grid">
+
+            <div class="footer-col">
+              <div class="logo">
+                <img src="./assets/images/logo.png" alt="Z7RAYS Logo">
+              </div>
+
+                <p>
+                    Supplier of Rare Earth Materials,
+                    High Purity Metals, Strategic Minerals,
+                    Base Metals and Global Sourcing Solutions.
+                </p>
+                
+            </div>
+
+            <div class="footer-col">
+
+                <h4>Products</h4>
+
+                <ul>
+
+                    <li>
+                        <a href="./products/rare-earth.html">
+                            Rare Earth Materials
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="./products/high-purity.html">
+                            High Purity Materials
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="./products/strategic-minerals.html">
+                            Strategic Minerals
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="./products/base-metals.html">
+                            Base Metals
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+            <div class="footer-col">
+
+                <h4>Contact</h4>
+
+                <p>Email : sales@z7rays.com</p>
+
+                <p>Tel : +82-10-5702-3400</p>
+                
+                <p>#713-L1, 190 Gimpo Hangang9-ro, 75beon-gil, Gimpo-si, Gyeonggi-do, Republic of Korea</p>
+
+
+            </div>
+
+        </div>
+
+        <div class="footer-bottom">
+
+            © 2026 ZEAL 7RAYS KOREA CO., LTD. 
+            All Rights Reserved.
+
+        </div>
+
+    </div>
+
+</footer>
+
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
