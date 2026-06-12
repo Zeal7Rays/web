@@ -719,6 +719,83 @@ header.shrink .logo img {
 
 }
 
+.response-time{
+    text-align:center;
+    margin-top:20px;
+    color:#666;
+    font-size:14px;
+    line-height:1.8;
+}
+
+.thank-you{
+
+    min-height:100vh;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
+    padding:40px;
+
+}
+
+.thank-you-logo{
+
+    height: 40px;
+    width: auto;
+
+    margin-bottom:40px;
+
+}
+
+.thank-you h1{
+
+    font-size:48px;
+
+    margin-bottom:20px;
+
+    color:#222;
+
+}
+
+.thank-you p{
+
+    max-width:600px;
+
+    line-height:1.8;
+
+    color:#666;
+
+    margin-bottom:15px;
+
+}
+
+
+
+.home-btn{
+
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 30px;
+    background:#1a1a1a;
+    color:#fff;
+    text-decoration:none;
+    border-radius:4px;
+
+}
+
+.home-btn:hover{
+
+    opacity:0.9;
+
+}
+
 /* =====================================
    MOBILE MENU
 ===================================== */
