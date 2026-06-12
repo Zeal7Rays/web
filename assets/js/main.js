@@ -75,3 +75,34 @@ function initFadeIn() {
     elements.forEach(el => observer.observe(el));
 }
 
+const contactForm = document.querySelector(".contact-form");
+
+if (contactForm) {
+
+    contactForm.addEventListener("submit", async function(e) {
+
+        e.preventDefault();
+
+        const form = this;
+
+        const response = await fetch(form.action, {
+            method: "POST",
+            body: new FormData(form),
+            headers: {
+                "Accept": "application/json"
+            }
+        });
+
+        if (response.ok) {
+
+            window.location.href = "./thank-you.html";
+
+        } else {
+
+            alert("Submission failed. Please try again.");
+
+        }
+
+    });
+
+}
