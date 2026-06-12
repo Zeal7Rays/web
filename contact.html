@@ -170,45 +170,91 @@
         </div>
 
         <div class="contact-form-wrapper">
-
-            <form class="contact-form">
+            <form
+              class="contact-form"
+              action="https://formspree.io/f/xqeoydbn"
+              method="POST"
+            >
+            
+                <input 
+                  type="hidden" 
+                  name="_subject" 
+                  value="[ZEAL 7RAYS KOREA Inquiry] New Request"
+                >
+               
+                <input 
+                  type="hidden"
+                  name="_next"
+                  value="thank-you.html"
+                >
 
                 <input
                     type="text"
+                    name="company"
                     placeholder="Company Name"
                     required
                 >
 
                 <input
                     type="text"
+                    name="contact_person"
                     placeholder="Contact Person"
                     required
                 >
 
                 <input
                     type="email"
+                    name="email"
                     placeholder="Email Address"
                     required
                 >
+                
+                <input 
+                  type="text"
+                  name="country"
+                  placeholder="Country"
+                >
+
 
                 <input
                     type="text"
+                    name="material"
                     placeholder="Material of Interest"
                 >
-
+                
                 <textarea
+                    name="message"
                     rows="6"
                     placeholder="Please describe your inquiry..."
                     required
                 ></textarea>
-
+                
+                <!-- Spam Protection -->
+                <input
+                  type="text"
+                  name="_gotcha"
+                  style="display:none"
+                >
+                
                 <button type="submit">
 
                     Send Inquiry
 
                 </button>
-
+                
             </form>
+            
+            <p class="response-time">
+
+              Have a question about rare earth materials,
+              specialty metals, or sourcing requirements?
+
+              <br><br>
+
+              Send us your inquiry and our team will get back
+              to you within 1–2 business days.
+
+            </p>
 
         </div>
 
