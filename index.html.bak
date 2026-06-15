@@ -3,12 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZEAL 7RAYS KOREA | Strategic Materials for Global Industries</title>
+    <title>ZEAL 7RAYS KOREA | ZEAL7RAYS | (주)질세븐레이즈코리아 | Rare Earth & Strategic Minerals</title>
 
-    <link rel="stylesheet" href="./assets/css/main.css?v=250609_1">
-
+    <link rel="canonical" href="https://www.z7rays.com/">
+    <link rel="stylesheet" href="./assets/css/main.css?v=250615_1">
+    
     <meta name="description"
-          content="Global supplier of rare earth materials, strategic metals, high-purity materials and industrial commodities.">
+      content="ZEAL 7RAYS KOREA (ZEAL7RAYS, 질세븐레이즈코리아) specializes in Rare Earth Materials, Strategic Minerals, High Purity Materials and Global Sourcing Solutions.">
+
+    <meta name="keywords"
+      content="Rare Earth, NdPr Oxide, Rare Earth Materials, Strategic Minerals, High Purity Metals, Global Sourcing, Korea">
+
+    <meta name="robots"
+      content="index, follow">
+      
+    <meta property="og:title"
+      content="ZEAL 7RAYS KOREA | Rare Earth Materials">
+
+    <meta property="og:description"
+      content="Global supplier of Rare Earth Materials, Strategic Minerals and High Purity Materials.">
+
+    <meta property="og:url"
+      content="https://www.z7rays.com">
+
+    <meta property="og:type"
+      content="website">
+      
+    <meta property="og:image"
+      content="https://www.z7rays.com/assets/images/logo.png">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "ZEAL 7RAYS KOREA",
+      "alternateName": "(주)질세븐레이즈코리아",
+      "url": "https://www.z7rays.com",
+      "logo": "https://www.z7rays.com/assets/images/logo.png",
+      "email": "sales@z7rays.com",
+      "description": "Global supplier of Rare Earth Materials, Strategic Minerals, High Purity Materials and Base Metals.",
+      "keywords": [
+        "Rare Earth",
+        "NdPr Oxide",
+        "Strategic Minerals",
+        "Base Metals",
+        "희토류",
+        "비철금속",
+        "전략광물",
+        "네오디뮴"
+      ]
+    }
+    </script>
+
 </head>
 
 
@@ -128,12 +174,12 @@
 
         <div class="hero-buttons">
 
-            <a href="#" class="btn btn-gold">
+            <a href="./products/rare-earth.html" class="btn btn-gold">
                 VIEW PRODUCTS
             </a>
 
             <a href="#" class="btn btn-outline">
-                REQUEST QUOTATION
+                CONTACT US
             </a>
 
         </div>
@@ -238,7 +284,7 @@
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="./assets/images/NdPr-metal.jpg"
+                        <img src="./assets/images/dysprosium-metal.jpg"
                             alt="NdPr Oxide">
                     </div>
                     <h3>Dysprosium Metal</h3>

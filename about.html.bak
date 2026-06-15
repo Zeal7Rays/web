@@ -8,14 +8,38 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>
-        About Zeal 7Rays Korea | Strategic Materials & Global Resources
+        About ZEAL 7RAYS KOREA | (주)질세븐레이즈코리아
     </title>
-
+    
     <meta name="description"
-          content="Learn about Zeal 7Rays Korea, a global sourcing and supply company specializing in rare earth materials, strategic metals, high-purity materials and industrial commodities.">
+          content="ZEAL 7RAYS KOREA (ZEAL7RAYS, 질세븐레이즈코리아) specializes in Rare Earth Materials, Strategic Minerals, High Purity Materials and Global Sourcing Solutions.">
 
+    <link rel="canonical" href="https://www.z7rays.com/about.html">
     <link rel="stylesheet"
-          href="./assets/css/main.css?v=250609">
+          href="./assets/css/main.css?v=250609">    
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "ZEAL 7RAYS KOREA",
+      "alternateName": "(주)질세븐레이즈코리아",
+      "url": "https://www.z7rays.com",
+      "logo": "https://www.z7rays.com/assets/images/logo.png",
+      "email": "sales@z7rays.com",
+      "description": "Global supplier of Rare Earth Materials, Strategic Minerals, High Purity Materials and Base Metals.",
+      "keywords": [
+        "Rare Earth",
+        "NdPr Oxide",
+        "Strategic Minerals",
+        "Base Metals",
+        "희토류",
+        "비철금속",
+        "전략광물",
+        "네오디뮴"
+      ]
+    }
+    </script>
 
 </head>
 
@@ -133,17 +157,23 @@
     <div class="container">
 
         <span class="product-category">
-            COMPANY PROFILE
+             GLOBAL MATERIAL SOURCING
         </span>
 
         <h1>
-            About ZEAL 7RAYS KOREA
+             Connecting Strategic Resources
+              to Global Industries
         </h1>
-
-        <p>
-            Strategic Materials & Global Resources
+        
+        <p class="hero-subtitle">
+              ZEAL 7RAYS KOREA
         </p>
 
+        <p class="company-name">
+            Korean Company Name: (주)질세븐레이즈코리아
+        </p>
+
+        
     </div>
 
 </section>
@@ -179,6 +209,89 @@
             industrial innovation.
 
         </p>
+
+    </div>
+
+</section>
+
+<section class="stats-section">
+<!-- <section class="section stats-section"> -->
+
+    <div class="container">
+
+     <!--   <div class="applications-grid"> -->
+
+        <div class="stats-grid">
+  
+            <div class="stat-card">
+                <h3>20+</h3>
+                <p>Supply Partners</p>
+            </div>
+
+            <div class="stat-card">
+                <h3>10+</h3>
+                <p>Countries Connected</p>
+            </div>
+
+            <div class="stat-card">
+                <h3>24/7</h3>
+                <p>Customer Support</p>
+            </div>
+
+            <div class="stat-card">
+                <h3>100%</h3>
+                <p>Quality Focused</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="section bg-light">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <h2>
+                Global Supply Chain
+            </h2>
+
+        </div>
+
+        <div class="supply-chain">
+
+            <div class="supply-box">
+                Mine
+            </div>
+            
+            <div class="arrow">→</div>
+
+            <div class="supply-box">
+                Refinery
+            </div>
+            
+            <div class="arrow">→</div>
+
+            <div class="supply-box highlight">
+                ZEAL 7RAYS KOREA
+            </div>
+            
+            <div class="arrow">→</div>
+
+            <div class="supply-box">
+                Manufacturer
+            </div>
+            
+            <div class="arrow">→</div>
+
+            <div class="supply-box">
+                End User
+            </div>
+
+        </div>
 
     </div>
 
@@ -243,27 +356,33 @@
         <div class="applications-grid">
 
             <div class="app-card">
+              🚗<br>
                 Electric Vehicles
             </div>
 
             <div class="app-card">
+              ⚡<br>
                 Renewable Energy
             </div>
 
             <div class="app-card">
+              🔋<br>
+              Energy Storage
+            </div>
+
+            <div class="app-card">
+              📱<br>
                 Electronics
             </div>
 
             <div class="app-card">
+              🤖<br>
                 Industrial Automation
             </div>
 
             <div class="app-card">
+              ✈<br>
                 Aerospace
-            </div>
-
-            <div class="app-card">
-                Advanced Manufacturing
             </div>
 
         </div>
@@ -349,12 +468,13 @@
     <div class="container">
 
         <h2>
-            Partner With ZEAL 7RAYS KOREA
+            Looking for Strategic Materials?
         </h2>
 
         <p style="text-align:center; margin-bottom:30px;">
 
-            Contact us to discuss your material sourcing requirements.
+            Contact our team for sourcing support,
+            specifications and quotations.
 
         </p>
 
@@ -443,7 +563,7 @@
 
         <div class="footer-bottom">
 
-            © 2026 ZEAL 7RAYS KOREA Co., Ltd.  
+            © 2026 ZEAL 7RAYS KOREA CO., LTD.
             All Rights Reserved.
 
         </div>

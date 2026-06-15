@@ -15,7 +15,7 @@
           content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250609">
+          href="../assets/css/main.css?v=250615_1">
 
 </head>
 
@@ -231,7 +231,7 @@
 
                 <div class="product-card">
                     <div class="product-image">
-                        <img src="../assets/images/NdPr-metal.jpg"
+                        <img src="../assets/images/hp-iron.jpg"
                             alt="High Purity Iron">
                     </div>
                     <h3>High Purity Iron</h3>
