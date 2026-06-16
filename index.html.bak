@@ -17,6 +17,9 @@
     <meta name="robots"
       content="index, follow">
       
+    <meta property="og:site_name"
+      content="ZEAL 7RAYS KOREA">  
+      
     <meta property="og:title"
       content="ZEAL 7RAYS KOREA | Rare Earth Materials">
 
@@ -178,7 +181,7 @@
                 VIEW PRODUCTS
             </a>
 
-            <a href="#" class="btn btn-outline">
+            <a href="./contact.html" class="btn btn-outline">
                 CONTACT US
             </a>
 
@@ -188,40 +191,22 @@
 
 </section>
 
-<section class="stats">
-
-    <div class="container stats-grid">
-
-        <div>
-            <h3>20+</h3>
-            <p>Global Suppliers</p>
-        </div>
-
-        <div>
-            <h3>15+</h3>
-            <p>Countries Served</p>
-        </div>
-
-        <div>
-            <h3>100+</h3>
-            <p>Material Solutions</p>
-        </div>
-
-        <div>
-            <h3>24/7</h3>
-            <p>Customer Support</p>
-        </div>
-
-    </div>
-
-</section>
-
-
-<section class="featured">
+<section class="section">
 
     <div class="container">
 
+      <div class="section-title">
+        
+        <span class="section-subtitle">
+          MATERIAL PORTFOLIO
+        </span>
+    
         <h2>Featured Products</h2>
+        
+        <p>
+          Strategic materials supporting advanced manufacturing,
+          clean energy and industrial innovation.
+        </p>
 
         <div class="product-grid">
           
@@ -335,7 +320,7 @@
             </a>
             
         </div>
-
+      </div>
     </div>
 
 </section>
@@ -344,60 +329,173 @@
 
     <div class="container">
 
-        <h2>Why ZEAL 7RAYS KOREA</h2>
+        <div class="section-title">
 
-        <div class="about-grid">
+            <span class="section-subtitle">
+              INDUSTRIES
+            </span>
+        
+            <h2>
+                Industries We Serve
+            </h2>
+            
+            <p>
+                Supporting key industries through strategic materials
+                and reliable global sourcing solutions.
+            </p>
 
-            <div>
-                <h3>Global Supplier Network</h3>
-                <p>Reliable sourcing from qualified partners worldwide.</p>
+        </div>
+
+        <div class="applications-grid">
+
+            <div class="industry-card">
+
+                <div class="industry-icon">🚗</div>
+
+                <h3>Electric Vehicles</h3>
+                
+                <!--
+                <img src="./assets/images/icons/ev.svg"
+                alt="Electric Vehicles">
+                -->
+
+                <p>
+                    Rare earth materials for EV motors and mobility solutions.
+                </p>
+
             </div>
 
-            <div>
-                <h3>Quality Assurance</h3>
-                <p>Support for material verification and inspection services.</p>
+            <div class="industry-card">
+
+                <div class="industry-icon">⚡</div>
+
+                <h3>Renewable Energy</h3>
+
+                <p>
+                    Critical materials supporting wind and solar technologies.
+                </p>
+
             </div>
 
-            <div>
-                <h3>Export Logistics</h3>
-                <p>Professional coordination for international deliveries.</p>
+            <div class="industry-card">
+
+                <div class="industry-icon">🔋</div>
+
+                <h3>Energy Storage</h3>
+
+                <p>
+                    Advanced materials for battery and storage systems.
+                </p>
+
             </div>
 
-            <div>
-                <h3>Strategic Sourcing</h3>
-                <p>Competitive procurement solutions for industrial customers.</p>
+            <div class="industry-card">
+
+                <div class="industry-icon">📱</div>
+
+                <h3>Electronics</h3>
+
+                <p>
+                    High purity materials for semiconductor and electronics.
+                </p>
+
+            </div>
+
+            <div class="industry-card">
+
+                <div class="industry-icon">🤖</div>
+
+                <h3>Industrial Automation</h3>
+
+                <p>
+                    Precision materials for smart manufacturing solutions.
+                </p>
+
+            </div>
+
+            <div class="industry-card">
+
+                <div class="industry-icon">✈</div>
+
+                <h3>Aerospace</h3>
+
+                <p>
+                    Strategic metals and alloys for aerospace applications.
+                </p>
+
             </div>
 
         </div>
+
 
     </div>
 
 </section>
 
-<section class="contact">
+<section class="section">
+
+    <div class="container">
+      <div class="section-title">
+        <span class="section-subtitle">
+          OUR STRENGTHS
+        </span>
+    
+        <h2>Why ZEAL 7RAYS KOREA</h2>
+
+        <div class="about-grid">
+
+            <div class="why-card">
+                <h3>Global Supplier Network</h3>
+                <p>Reliable sourcing from qualified partners worldwide.</p>
+            </div>
+
+            <div class="why-card">
+                <h3>Quality Assurance</h3>
+                <p>Support for material verification and inspection services.</p>
+            </div>
+
+            <div class="why-card">
+                <h3>Export Logistics</h3>
+                <p>Professional coordination for international deliveries.</p>
+            </div>
+
+            <div class="why-card">
+                <h3>Strategic Sourcing</h3>
+                <p>Competitive procurement solutions for industrial customers.</p>
+            </div>
+
+        </div>
+      </div>
+    </div>
+
+</section>
+
+<section class="cta-banner">
 
     <div class="container">
 
+        <span class="cta-subtitle">
+            GLOBAL SOURCING • STRATEGIC MATERIALS
+        </span>
+
         <h2>
-            Looking for a Reliable Sourcing Partner?
+            Need a Reliable Sourcing Partner?
         </h2>
 
-        <p style="text-align:center; margin-bottom:30px;">
+        <p>
 
-            Contact ZEAL 7RAYS KOREA to discuss your sourcing requirements and supply chain needs.
+            ZEAL 7RAYS KOREA connects global suppliers
+            with industrial customers through reliable sourcing,
+            quality verification and supply chain coordination.
 
         </p>
+        
+        <a href="./contact.html"
+           class="btn btn-gold">
 
-        <div style="text-align:center;">
+            CONTACT US
 
-            <a href="contact.html"
-               class="btn btn-gold">
-
-                CONTACT US
-
-            </a>
-
-        </div>
+        </a>
 
     </div>
 
@@ -415,9 +513,12 @@
               </div>
 
                 <p>
-                    Supplier of Rare Earth Materials,
-                    High Purity Metals, Strategic Minerals,
-                    Base Metals and Global Sourcing Solutions.
+                      ZEAL 7RAYS KOREA
+                      (Korean Company Name: 질세븐레이즈코리아)
+                      provides reliable sourcing solutions
+                      for rare earth materials, strategic minerals,
+                      high-purity metals and industrial commodities
+                      through a global supplier network.
                 </p>
                 
             </div>

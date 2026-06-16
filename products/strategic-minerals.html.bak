@@ -8,7 +8,7 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>
-        Rare Earth Materials Supplier | ZSRK
+        Rare Earth Materials Supplier | ZEAL 7RAYS KOREA
     </title>
 
     <meta name="description"
@@ -279,31 +279,31 @@
 
 </section>
 
-<section class="contact">
+<section class="cta-banner">
 
     <div class="container">
 
+        <span class="cta-subtitle">
+            GLOBAL SOURCING • STRATEGIC MATERIALS
+        </span>
+
         <h2>
-            Request a Material Sourcing Consultation
+            Looking for Strategic Materials?
         </h2>
 
-        <p style="text-align:center; margin-bottom:30px;">
+        <p>
 
-            Contact ZEAL 7RAYS KOREA for product specifications,
-            availability, pricing and global sourcing support.
+            Partner with ZEAL 7RAYS KOREA for reliable sourcing,
+            competitive supply solutions and global market access.
 
         </p>
+        
+        <a href="./contact.html"
+           class="btn btn-gold">
 
-        <div style="text-align:center;">
+            CONTACT US
 
-            <a href="../contact.html"
-               class="btn btn-gold">
-
-                REQUEST QUOTATION
-
-            </a>
-
-        </div>
+        </a>
 
     </div>
 
