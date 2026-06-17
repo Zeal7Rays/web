@@ -18,6 +18,18 @@
 
 });
 
+document.addEventListener("DOMContentLoaded", () => {
+
+    const popup = document.getElementById("noticePopup");
+    const closeBtn = document.getElementById("closePopup");
+
+    if (closeBtn) {
+        closeBtn.addEventListener("click", () => {
+            popup.style.display = "none";
+        });
+    }
+
+});
 
 // ===============================
 // 1. Language Switch
