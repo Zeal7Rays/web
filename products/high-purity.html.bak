@@ -8,14 +8,14 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>
-        Rare Earth Materials Supplier
+        High Purity Materials Supplier
     </title>
 
     <meta name="description"
           content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250615_1">
+          href="../assets/css/main.css?v=250617_1">
 
 </head>
 
@@ -44,7 +44,7 @@
         <div class="logo">
             <a href="../index.html">
                 <img src="../assets/images/logo.png"
-                     alt="ZSRK Logo">
+                     alt="Z7RAYS Logo">
             </a>
         </div>
 
@@ -169,6 +169,25 @@
 
         <div class="product-grid">
 
+            <a href="../product/tungsten-powder.html"
+               class="product-link">
+
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="../assets/images/tungsten-powder.jpg"
+                            alt="Tungsten">
+                    </div>
+                    <h3>Tungsten</h3>
+
+                    <p>
+                        High-performance refractory metal
+                        with exceptional durability.
+                    </p>
+
+                </div>
+
+            </a>
+            
             <a href="../product/hp-copper-powder.html"
                class="product-link">
 
@@ -264,25 +283,6 @@
 
             </a>
 
-            <a href="../product/tungsten.html"
-               class="product-link">
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/tungsten.jpg"
-                            alt="Tungsten">
-                    </div>
-                    <h3>Tungsten</h3>
-
-                    <p>
-                        High-performance refractory metal
-                        with exceptional durability.
-                    </p>
-
-                </div>
-
-            </a>
-            
             <a href="../product/rhodium.html"
               class="product-link">
 
@@ -348,17 +348,17 @@
         </span>
 
         <h2>
-            Looking for Strategic Materials?
+            Request Product Information
         </h2>
 
         <p>
 
-            Partner with ZEAL 7RAYS KOREA for reliable sourcing,
-            competitive supply solutions and global market access.
+            Contact us for specifications,
+            availability and quotations.
 
         </p>
         
-        <a href="./contact.html"
+        <a href="../contact.html"
            class="btn btn-gold">
 
             CONTACT US

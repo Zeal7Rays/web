@@ -18,6 +18,25 @@
 
 });
 
+document.addEventListener("DOMContentLoaded", () => {
+
+    const popup = document.getElementById("noticePopup");
+    const closeBtn = document.getElementById("closePopup");
+
+    if (!popup || !closeBtn) return;
+
+    function closePopup(e) {
+
+        e.preventDefault();
+        e.stopPropagation();
+
+        popup.style.display = "none";
+    }
+
+    closeBtn.addEventListener("click", closePopup);
+    closeBtn.addEventListener("touchstart", closePopup);
+
+});
 
 // ===============================
 // 1. Language Switch
@@ -95,7 +114,7 @@ if (contactForm) {
 
         if (response.ok) {
 
-            window.location.href = "/thank-you.html";
+            window.location.href = "./thank-you.html";
 
         } else {
 

@@ -46,7 +46,7 @@
         
         <span class="breadcrumb-sep">›</span>
 
-        <span>Tungsten</span>
+        <span>Tungsten Powder</span>
 
     </div>
 </section>
@@ -177,7 +177,7 @@
 
         </div>
 
-        <div class="product-grid">
+        <div class="about-grid">
 
             <div class="product-card">
   
@@ -202,7 +202,7 @@
               <h3>Tungsten Powder SEM</h3>     
             
             </div>
-        </div>  
+        
             <div>
 
                 <p>
@@ -223,7 +223,7 @@
                 </p>
 
             </div>
-
+      </div>
 
     </div>
 
@@ -288,6 +288,12 @@
         
         <p class="spec-note"> Detailed specifications and particle size distributions can be provided upon request. </p>
 
+        <div class="spec-image">
+
+            <img src="../assets/images/tungsten-powder-ds-01.png"
+                 alt="Tungsten Powder Chemical Composition">
+
+        </div>
     </div>
 
 </section>
@@ -306,28 +312,79 @@
 
         <div class="applications-grid">
 
-            <div class="app-card">
-                Cemented Carbides
-            </div>
+            <div class="applications-grid">
 
-            <div class="app-card">
-                Powder Metallurgy
-            </div>
+                <div class="industry-card">
 
-            <div class="app-card">
-                Electronics
-            </div>
+                    <div class="industry-icon">🛠️</div>
 
-            <div class="app-card">
-                Aerospace
-            </div>
+                    <h3>Cemented Carbides</h3>
 
-            <div class="app-card">
-                Thermal Spraying
-            </div>
+                    <p>
+                        Essential raw material for tungsten carbide tools.
+                    </p>
 
-            <div class="app-card">
-                Additive Manufacturing
+                </div>
+
+                <div class="industry-card">
+    
+                    <div class="industry-icon">⚙️</div>
+    
+                    <h3>Powder Metallurgy</h3>
+    
+                    <p>
+                        High-density metal components and alloys.
+                    </p>
+    
+                </div>
+    
+                <div class="industry-card">
+    
+                    <div class="industry-icon">💻</div>
+    
+                    <h3>Electronics</h3>
+    
+                    <p>
+                        Electrical contacts, electrodes and components.
+                    </p>
+    
+                </div>
+    
+                <div class="industry-card">
+    
+                    <div class="industry-icon">✈️</div>
+    
+                    <h3>Aerospace</h3>
+    
+                    <p>
+                        Radiation shielding and high-temperature applications.
+                    </p>
+    
+                </div>
+    
+                <div class="industry-card">
+            
+                    <div class="industry-icon">🔥</div>
+            
+                    <h3>Thermal Spraying</h3>
+            
+                    <p>
+                        Wear-resistant and corrosion-resistant coatings.
+                    </p>
+            
+                </div>
+            
+                <div class="industry-card">
+            
+                    <div class="industry-icon">🖨️</div>
+            
+                    <h3>Additive Manufacturing</h3>
+            
+                    <p>
+                        Advanced 3D printing and AM technologies.
+                    </p>
+            
+                </div>
             </div>
 
         </div>
@@ -410,17 +467,18 @@
     <div class="container">
 
         <span class="cta-subtitle">
-            GLOBAL SOURCING • STRATEGIC MATERIALS
+            HIGH PURITY MATERIALS • GLOBAL SUPPLY
         </span>
 
         <h2>
-            Looking for Strategic Materials?
+            Need a Reliable Tungsten Supplier?
         </h2>
 
         <p>
 
-            Partner with ZEAL 7RAYS KOREA for reliable sourcing,
-            competitive supply solutions and global market access.
+            Request specifications,
+            pricing and supply availability
+            from our sourcing team.
 
         </p>
         
@@ -447,19 +505,30 @@
 
         </div>
 
-        <div class="product-grid">
+        <div class="related-grid">
 
-            <div class="product-card">
-                High Purity Copper Powder
-            </div>
+            <a href="../product/hp-copper-powder.html"
+               class="related-card">
 
-            <div class="product-card">
-                Ultra High Purity Copper Powder
-            </div>
+                <img src="../assets/images/hp-copper-powder.jpg"
+                    alt="High Purity Copper Powder">
+                <h4>High Purity Copper Powder</h3>
+            </a>
 
-            <div class="product-card">
-                Rhodium
-            </div>
+            <a href="../product/uhp-copper-powder.html"
+               class="related-card">
+
+                <img src="../assets/images/uhp-copper-powder.jpg"
+                    alt="Ultra High Purity Copper Powder">
+                <h4>Ultra High Purity Copper Powder</h3>
+            </a>
+
+            <a href="../product/hp-copper-ingot.html"
+               class="related-card">
+                <img src="../assets/images/hp-copper-ingot.jpg"
+                    alt="High Purity Copper Ingot">
+                <h4>High Purity Copper Ingot</h3>
+            </a>
 
         </div>
 
@@ -551,7 +620,7 @@
 
 </footer>
 
-<script src="../assets/js/main.js?v=250617_1"></script>
+<script src="../assets/js/main.js?v=250618_1"></script>
 
 </body>
 
