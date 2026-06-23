@@ -19,7 +19,7 @@
 
     <link rel="canonical" href="https://www.z7rays.com/product/tungsten-powder.html">
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250617_1">
+          href="../assets/css/main.css?v=250623_1">
 
 </head>
 
@@ -177,54 +177,44 @@
 
         </div>
 
-        <div class="about-grid">
+        <div class="product-overview">
 
-            <div class="product-card">
-  
-              <div class="product-image">
-
-                <img src="../assets/images/tungsten-powder.jpg"
-                     alt="Tungsten Powder">
-              </div>
-            
-              <h3>Tungsten Powder</h3>
-            
-            </div>
-          
-            <div class="product-card">
-              <div class="product-image">
-
-                <img src="../assets/images/tungsten-powder-sem.jpg"
-                     alt="Tungsten Powder SEM">
+            <div class="product-overview-images">
+              
+                <div class="overview-item">
+        
+                    <img src="../assets/images/tungsten-powder.jpg"
+                        alt="Tungsten Powder">
                      
-              </div>
-            
-              <h3>Tungsten Powder SEM</h3>     
-            
+                    <h4>Tungsten Powder</h4>
+                </div>
+                
+                <div class="overview-item">
+                    <img src="../assets/images/tungsten-powder-sem.jpg"
+                        alt="Tungsten Powder SEM">
+                        
+                    <h4>Particle Morphology (SEM)</h4>
+                </div>
             </div>
         
-            <div>
-
+            <div class="product-overview-text">
+        
                 <p>
-
                     Tungsten Powder is a high-purity refractory metal powder
                     featuring exceptional density, high melting point,
                     excellent corrosion resistance and superior mechanical performance.
-
                 </p>
-
+        
                 <p>
-
                     Manufactured through the reduction of tungsten oxide
                     or ammonium paratungstate (APT),
                     Tungsten Powder offers uniform particle size distribution
                     and excellent flowability for demanding industrial applications.
-
                 </p>
-
+        
             </div>
-      </div>
 
+        </div>
     </div>
 
 </section>
@@ -288,6 +278,21 @@
         
         <p class="spec-note"> Detailed specifications and particle size distributions can be provided upon request. </p>
 
+    </div>
+
+</section>
+
+<!-- COMPOSITION -->
+<section class="section bg-light">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <h2>Chemical Composition</h2>
+
+        </div>
+
         <div class="spec-image">
 
             <img src="../assets/images/tungsten-powder-ds-01.png"
@@ -312,79 +317,76 @@
 
         <div class="applications-grid">
 
-            <div class="applications-grid">
+            <div class="industry-card">
 
-                <div class="industry-card">
+                <div class="industry-icon">🛠️</div>
 
-                    <div class="industry-icon">🛠️</div>
+                <h3>Cemented Carbides</h3>
 
-                    <h3>Cemented Carbides</h3>
+                <p>
+                    Essential raw material for tungsten carbide tools.
+                </p>
 
-                    <p>
-                        Essential raw material for tungsten carbide tools.
-                    </p>
+            </div>
 
-                </div>
+            <div class="industry-card">
 
-                <div class="industry-card">
-    
-                    <div class="industry-icon">⚙️</div>
-    
-                    <h3>Powder Metallurgy</h3>
-    
-                    <p>
-                        High-density metal components and alloys.
-                    </p>
-    
-                </div>
-    
-                <div class="industry-card">
-    
-                    <div class="industry-icon">💻</div>
-    
-                    <h3>Electronics</h3>
-    
-                    <p>
-                        Electrical contacts, electrodes and components.
-                    </p>
-    
-                </div>
-    
-                <div class="industry-card">
-    
-                    <div class="industry-icon">✈️</div>
-    
-                    <h3>Aerospace</h3>
-    
-                    <p>
-                        Radiation shielding and high-temperature applications.
-                    </p>
-    
-                </div>
-    
-                <div class="industry-card">
-            
-                    <div class="industry-icon">🔥</div>
-            
-                    <h3>Thermal Spraying</h3>
-            
-                    <p>
-                        Wear-resistant and corrosion-resistant coatings.
-                    </p>
-            
-                </div>
-            
-                <div class="industry-card">
-            
-                    <div class="industry-icon">🖨️</div>
-            
-                    <h3>Additive Manufacturing</h3>
-            
-                    <p>
-                        Advanced 3D printing and AM technologies.
-                    </p>
-            
-                </div>
+                <div class="industry-icon">⚙️</div>
+
+                <h3>Powder Metallurgy</h3>
+
+                <p>
+                    High-density metal components and alloys.
+                </p>
+
+            </div>
+
+            <div class="industry-card">
+
+                <div class="industry-icon">💻</div>
+
+                <h3>Electronics</h3>
+
+                <p>
+                    Electrical contacts, electrodes and components.
+                </p>
+
+            </div>
+
+            <div class="industry-card">
+
+                <div class="industry-icon">✈️</div>
+
+                <h3>Aerospace</h3>
+
+                <p>
+                    Radiation shielding and high-temperature applications.
+                </p>
+
+            </div>
+
+            <div class="industry-card">
+        
+                <div class="industry-icon">🔥</div>
+        
+                <h3>Thermal Spraying</h3>
+        
+                <p>
+                    Wear-resistant and corrosion-resistant coatings.
+                </p>
+        
+            </div>
+        
+            <div class="industry-card">
+        
+                <div class="industry-icon">🖨️</div>
+        
+                <h3>Additive Manufacturing</h3>
+        
+                <p>
+                    Advanced 3D printing and AM technologies.
+                </p>
+        
             </div>
 
         </div>
@@ -433,27 +435,19 @@
             <h2>Packaging</h2>
 
         </div>
+        
+        <div class="product-overview-text">
 
-        <p>
+            <p>
+                Tungsten Powder is carefully packed in export cartons or wooden cases 
+                with additional cushioning materials to minimize movement during transit.
+            </p>
 
-          Tungsten Powder is packed in sealed moisture-resistant containers
-          and protected with cushioning materials.
-
-        </p>
-
-        <p>
-
-          Products are securely packed in export cartons or wooden cases
-          to prevent contamination, moisture absorption and transportation damage.
-
-        </p>
-
-        <p>
-
-          Customized packaging solutions are available upon request.
-
-        </p>
-
+            <p>
+                This packaging method ensures product protection and maintains material integrity 
+                throughout transportation and delivery.
+            </p>
+        </div>
     </div>
 
 </section>
@@ -482,7 +476,7 @@
 
         </p>
         
-        <a href="./contact.html"
+        <a href="../contact.html"
            class="btn btn-gold">
 
             CONTACT US
@@ -507,20 +501,20 @@
 
         <div class="related-grid">
 
+            <a href="../product/tungsten-rods-ingots.html"
+               class="related-card">
+
+                <img src="../assets/images/tungsten-rods.jpg"
+                    alt="Tungsten Rods & Ingots">
+                <h4>Tungsten Rods & Ingots</h3>
+            </a>
+            
             <a href="../product/hp-copper-powder.html"
                class="related-card">
 
                 <img src="../assets/images/hp-copper-powder.jpg"
                     alt="High Purity Copper Powder">
                 <h4>High Purity Copper Powder</h3>
-            </a>
-
-            <a href="../product/uhp-copper-powder.html"
-               class="related-card">
-
-                <img src="../assets/images/uhp-copper-powder.jpg"
-                    alt="Ultra High Purity Copper Powder">
-                <h4>Ultra High Purity Copper Powder</h3>
             </a>
 
             <a href="../product/hp-copper-ingot.html"

@@ -8,7 +8,7 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>
-        NdPr Oxide Supplier | ZEAL 7RAYS KOREA
+        NdPr Oxide Supplier | ZSRK
     </title>
 
     <meta name="description"
@@ -18,7 +18,7 @@
           content="NdPr Oxide, Neodymium Praseodymium Oxide, Rare Earth Supplier, NdPr Oxide Supplier">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250623_1">
+          href="../assets/css/main.css?v=250609">
 
 </head>
 
@@ -33,7 +33,7 @@
         <div class="logo">
             <a href="../index.html">
                 <img src="../assets/images/logo.png"
-                     alt="Z7RAYS Logo">
+                     alt="ZSRK Logo">
             </a>
         </div>
 
@@ -140,7 +140,7 @@
 
         <a href="#inquiry"
            class="btn btn-gold">
-            CONTACT US
+            REQUEST QUOTATION
         </a>
 
     </div>
@@ -452,76 +452,19 @@
 
     <div class="container">
 
-        <div class="footer-grid">
+        <h3>ZEAL 7RAYS KOREA Co., Ltd.</h3>
 
-            <div class="footer-col">
-              <div class="logo">
-                <img src="../assets/images/logo.png" alt="Z7RAYS Logo">
-              </div>
+        <p>
+            Strategic Materials & Global Resources
+        </p>
 
-                <p>
-                    Supplier of Rare Earth Materials,
-                    High Purity Metals, Strategic Minerals,
-                    Base Metals and Global Sourcing Solutions.
-                </p>
-                
-            </div>
+        <p>
+            Seoul, Republic of Korea
+        </p>
 
-            <div class="footer-col">
-
-                <h4>Products</h4>
-
-                <ul>
-
-                    <li>
-                        <a href="../products/rare-earth.html">
-                            Rare Earth Materials
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="../products/high-purity.html">
-                            High Purity Materials
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="../products/strategic-minerals.html">
-                            Strategic Minerals
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="../products/base-metals.html">
-                            Base Metals
-                        </a>
-                    </li>
-
-                </ul>
-
-            </div>
-
-            <div class="footer-col">
-
-                <h4>Contact</h4>
-
-                <p>Email : sales@z7rays.com</p>
-
-                <p>Tel : +82-10-5702-3400</p>
-                
-                <p>#713-L1, 190 Gimpo Hangang9-ro, 75beon-gil, Gimpo-si, Gyeonggi-do, Republic of Korea</p>
-
-
-            </div>
-
-        </div>
-
-        <div class="footer-bottom">
-
-            ⓒ 2026 ZEAL 7RAYS KOREA CO., LTD. 
-            All Rights Reserved.
-
-        </div>
+        <p>
+            sales@z7rays.com
+        </p>
 
     </div>
 

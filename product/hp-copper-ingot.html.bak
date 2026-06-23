@@ -8,7 +8,7 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>
-        Tungsten Powder Supplier | ZEAL 7RAYS KOREA
+        Copper Ingot Supplier | ZEAL 7RAYS KOREA
     </title>
 
     <meta name="description"
@@ -20,7 +20,10 @@
     <link rel="canonical" href="https://www.z7rays.com/product/tungsten-powder.html">
     <link rel="stylesheet"
           href="../assets/css/main.css?v=250623_1">
-
+<!--          
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+-->
 </head>
 
 <body>
@@ -46,7 +49,7 @@
         
         <span class="breadcrumb-sep">›</span>
 
-        <span>Copper Powder</span>
+        <span>Oxygen-Free Copper Ingots</span>
 
     </div>
 </section>
@@ -153,13 +156,13 @@
         </span>
 
         <h1>
-            High Purity Copper Powder
+            Oxygen-Free Copper Ingot
         </h1>
 
         <p>
-            High-Purity Electrolytic Copper Powder
-            for Semiconductor, Electronics,
-            Advanced Manufacturing and Research Applications.
+            Ultra-High Purity Oxygen-Free Copper Ingots
+            for Semiconductor, Aerospace,
+            Electronics and Advanced Technology Applications.
         </p>
 
     </div>
@@ -183,45 +186,42 @@
               
                 <div class="overview-item">
         
-                    <img src="../assets/images/hp-copper-powder.jpg"
-                        alt="High Purity Copper Powder">
+                    <img src="../assets/images/hp-copper-ingot.jpg"
+                        alt="Oxygen-Free Copper Ingots">
                      
-                    <h4>High Purity Copper Powder</h4>
+                    <h4>Oxygen-Free Copper Ingots</h4>
                 </div>
                 
                 <div class="overview-item">
-                    <img src="../assets/images/hp-copper-powder2.jpg"
-                        alt="High Purity Ultrafine Copper Powder">
+                    <img src="../assets/images/hp-copper-ingot-packing.jpg"
+                        alt="Oxygen-Free Copper Ingots Packing">
                         
-                    <h4>High Purity Ultrafine Copper Powder</h4>
+                    <h4>Oxygen-Free Copper Ingots Packing</h4>
                 </div>
             </div>
         
             <div class="product-overview-text">
         
                 <p>
-                    Copper Powder is an electrolytic copper material
-                    produced through advanced precipitation technologies.
+                    Oxygen-Free Copper Ingots are produced from
+                    high-purity copper materials and are designed
+                    for applications requiring exceptional electrical conductivity,
+                    chemical purity and material reliability.
                 </p>
         
                 <p>
-                    The powder features extremely high copper purity,
-                    uniform particle distribution and excellent stability,
-                    making it suitable for demanding industrial applications.
+                    Our copper ingots can achieve purity levels
+                    of 99.9997% and above, making them suitable
+                    for semiconductor, aerospace, electronics
+                    and advanced manufacturing industries.
                 </p>
                 
-                <p>
-                    Ultra-fine particle sizes and ultra-high purity grades
-                    are available according to customer requirements.
-                </p>
-        
             </div>
 
         </div>
     </div>
 
 </section>
-
 
 <!-- SPECIFICATION -->
 <section class="section bg-light">
@@ -238,44 +238,43 @@
 
             <tr>
             <td>Material</td>
-            <td>Copper (Cu)</td>
+            <td>Oxygen-Free Copper (Cu)</td>
             </tr>
             
             <tr>
             <td>Purity</td>
-            <td>Up to 99.999%+</td>
+            <td>99.999% - 99.9997%+</td>
             </tr>
             
             <tr>
-            <td>Particle Shape</td>
-            <td>Near Spherical</td>
+            <td>Grade</td>
+            <td>5N - 5N5+</td>
             </tr>
             
             <tr>
-            <td>Particle Size</td>
-            <td>1 – 17+ μm</td>
+            <td>Form</td>
+            <td>Rectangular Ingot</td>
             </tr>
             
             <tr>
-            <td>Production Method</td>
-            <td>Electrolytic Process</td>
+            <td>Customization</td>
+            <td>Available</td>
             </tr>
             
             <tr>
-            <td>Stabilization</td>
-            <td>Argon Atmosphere Available</td>
+            <td>Storage</td>
+            <td>Dry & Heated Environment</td>
             </tr>
             
         </table>
         
         <p class="spec-note"> 
-          Detailed specifications can be provided upon request.  
+            Detailed specifications can be provided upon request. 
         </p>
 
     </div>
 
 </section>
-
 
 
 <!-- APPLICATIONS -->
@@ -327,7 +326,7 @@
                 <h3>Electronics</h3>
 
                 <p>
-                    PCB and precision electronic components.
+                    Electrical contacts, electrodes and components.
                 </p>
 
             </div>
@@ -400,6 +399,8 @@
             <div class="doc-card">TDS</div>
 
             <div class="doc-card">Certificate of Origin</div>
+            
+            <div class="doc-card">Inspection Report</div>
 
         </div>
 
@@ -417,51 +418,49 @@
             <h2>Packaging</h2>
 
         </div>
-
+        
         <div class="product-overview">
 
             <div class="product-overview-images">
               
-                <div class="packaging-image">
+                <div class="overview-item">
         
-                    <img src="../assets/images/hp-copper-powder-packing.jpg"
-                        alt="Copper Powder Packing">
+                    <img src="../assets/images/hp-copper-ingot.jpg"
+                        alt="Oxygen-Free Copper Ingots">
                      
-                    <h4>Copper Powder Packing</h4>
+                    <h4>Oxygen-Free Copper Ingots</h4>
                 </div>
                 
-                <div class="packaging-image">
-                    <img src="../assets/images/uhp-copper-powder-packing.jpg"
-                        alt="Ultrafine Copper Powder Packing">
+                <div class="overview-item">
+                    <img src="../assets/images/hp-copper-ingot-packing.jpg"
+                        alt="Oxygen-Free Copper Ingots Packing">
                         
-                    <h4>Ultrafine Copper Powder Packing</h4>
+                    <h4>Oxygen-Free Copper Ingots Packing</h4>
                 </div>
             </div>
         
             <div class="product-overview-text">
-        
+
                 <p>
-                    Copper Powder is packaged in hermetically sealed
-                    PET jars and placed in protective containers
-                    for safe transportation.
+                    Copper Ingots are packaged in double polyethylene
+                    (inner vacuum) and placed in protective containers.
                 </p>
 
                 <p>
-                    Containers are sealed and labeled,
-                    and supplied with packing lists and inventory documents.
+                    Containers are sealed and labelled,
+                    and supplied with a packing list and inventory.
                 </p>
-                
+        
                 <p>
                     Storage and transportation conditions
                     must exclude contamination and mechanical damage.
                 </p>
-        
             </div>
-
         </div>
     </div>
 
 </section>
+
 
 
 <!-- CTA -->
@@ -475,7 +474,7 @@
         </span>
 
         <h2>
-            Need High Purity Copper Powder?
+            Need High Purity Copper?
         </h2>
 
         <p>
@@ -510,12 +509,13 @@
         </div>
 
         <div class="related-grid">
-         
-            <a href="../product/hp-copper-ingot.html"
+
+            <a href="../product/hp-copper-powder.html"
                class="related-card">
-                <img src="../assets/images/hp-copper-ingot.jpg"
-                    alt="High Purity Copper Ingot">
-                <h4>High Purity Copper Ingot</h3>
+
+                <img src="../assets/images/hp-copper-powder.jpg"
+                    alt="High Purity Copper Powder">
+                <h4>High Purity Copper Powder</h3>
             </a>
             
             <a href="../product/tungsten-powder.html"
@@ -571,25 +571,25 @@
                 <ul>
 
                     <li>
-                        <a href="../products/rare-earth.html">
+                        <a href="./products/rare-earth.html">
                             Rare Earth Materials
                         </a>
                     </li>
 
                     <li>
-                        <a href="../products/high-purity.html">
+                        <a href="./products/high-purity.html">
                             High Purity Materials
                         </a>
                     </li>
 
                     <li>
-                        <a href="../products/strategic-minerals.html">
+                        <a href="./products/strategic-minerals.html">
                             Strategic Minerals
                         </a>
                     </li>
 
                     <li>
-                        <a href="../products/base-metals.html">
+                        <a href="./products/base-metals.html">
                             Base Metals
                         </a>
                     </li>
