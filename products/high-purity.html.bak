@@ -15,7 +15,7 @@
           content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250617_1">
+          href="../assets/css/main.css?v=250623_1">
 
 </head>
 
@@ -177,11 +177,30 @@
                         <img src="../assets/images/tungsten-powder.jpg"
                             alt="Tungsten">
                     </div>
-                    <h3>Tungsten</h3>
+                    <h3>Tungsten Powder</h3>
 
                     <p>
-                        High-performance refractory metal
-                        with exceptional durability.
+                        High-purity tungsten powder for powder metallurgy,
+                        cemented carbides and additive manufacturing.
+                    </p>
+
+                </div>
+
+            </a>
+            
+            <a href="../product/tungsten-rods-ingots.html"
+               class="product-link">
+
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="../assets/images/tungsten-rods.jpg"
+                            alt="Tungsten">
+                    </div>
+                    <h3>Tungsten Rods & Ingots</h3>
+
+                    <p>
+                        High-density tungsten products for high-temperature,
+                        aerospace and industrial applications.
                     </p>
 
                 </div>
@@ -196,30 +215,12 @@
                         <img src="../assets/images/hp-copper-powder.jpg"
                             alt="High Purity Copper Powder">
                     </div>
-                    <h3>High Purity Copper Powder</h3>
+                    <h3>Copper Powder</h3>
 
                     <p>
-                        High conductivity copper powder
-                        for advanced industrial applications.
-                    </p>
-
-                </div>
-
-            </a>
-
-            <a href="../product/uhp-copper-powder.html"
-               class="product-link">
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/uhp-copper-powder.jpg"
-                            alt="Ultra High Purity Copper Powder">
-                    </div>
-                    <h3>Ultra High Purity Copper Powder</h3>
-
-                    <p>
-                        Premium-grade copper powder
-                        for high-end applications.
+                        Electrolytic and ultra-fine copper powders
+                        for electronics, coatings,
+                        powder metallurgy and advanced materials.
                     </p>
 
                 </div>
@@ -234,11 +235,12 @@
                         <img src="../assets/images/hp-copper-ingot.jpg"
                             alt="High Purity Copper Ingot">
                     </div>
-                    <h3>High Purity Copper Ingot</h3>
+                    <h3>Oxygen-Free Copper Ingots</h3>
 
                     <p>
-                        High purity copper ingots
-                        for industrial processing.
+                        Ultra-high purity copper ingots
+                        for semiconductor, aerospace
+                        and advanced electronics applications.
                     </p>
 
                 </div>
@@ -381,9 +383,12 @@
               </div>
 
                 <p>
-                    Supplier of Rare Earth Materials,
-                    High Purity Metals, Strategic Minerals,
-                    Base Metals and Global Sourcing Solutions.
+                    ZEAL 7RAYS KOREA
+                    (Korean Company Name: 질세븐레이즈코리아)
+                    provides reliable sourcing solutions
+                    for rare earth materials, strategic minerals,
+                    high-purity metals and industrial commodities
+                    through a global supplier network.
                 </p>
                 
             </div>

@@ -16,7 +16,7 @@
 
     <link rel="canonical" href="https://www.z7rays.com/products/rare-earth.html">
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250616_1">
+          href="../assets/css/main.css?v=250623_1">
 
 </head>
 
@@ -45,7 +45,7 @@
         <div class="logo">
             <a href="../index.html">
                 <img src="../assets/images/logo.png"
-                     alt="ZSRK Logo">
+                     alt="Z7RAYS Logo">
             </a>
         </div>
 
@@ -171,9 +171,6 @@
 
         <div class="product-grid">
 
-            <a href="../product/ndpr-oxide.html"
-               class="product-link">
-
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/NdPr-metal.jpg"
@@ -188,10 +185,6 @@
 
                 </div>
 
-            </a>
-
-            <a href="../product/ndpr-metal.html"
-               class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
@@ -207,10 +200,6 @@
 
                 </div>
 
-            </a>
-
-            <a href="../product/dysprosium-metal.html"
-               class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
@@ -226,10 +215,6 @@
 
                 </div>
 
-            </a>
-
-            <a href="../product/terbium-metal.html"
-               class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
@@ -245,10 +230,6 @@
 
                 </div>
 
-            </a>
-
-            <a href="../product/niobium-metal.html"
-               class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
@@ -264,10 +245,6 @@
 
                 </div>
 
-            </a>
-
-            <a href="../product/rare-earth-concentrate.html"
-               class="product-link">
 
                 <div class="product-card">
                     <div class="product-image">
@@ -283,7 +260,6 @@
 
                 </div>
 
-            </a>
 
         </div>
 
