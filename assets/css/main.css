@@ -1688,6 +1688,18 @@ footer {
         font-size:18px;
     }
     
+    .product-overview {
+
+        grid-template-columns: 1fr;
+
+        gap: 30px;
+    }
+    
+    .product-overview-images img {
+
+        height: auto;
+    }
+    
     .footer-grid{
 
         grid-template-columns:1fr;
