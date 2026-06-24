@@ -15,7 +15,7 @@
           content="Supplier of rare earth materials including NdPr Oxide, NdPr Metal, Dysprosium Metal, Terbium Metal, Niobium Metal and Rare Earth Concentrate.">
 
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250623_1">
+          href="../assets/css/main.css?v=250624_1">
 
 </head>
 
@@ -169,7 +169,7 @@
 
         <div class="product-grid">
 
-            <a href="../product/tungsten-powder.html"
+            <a href="../product/hp-tungsten-powder.html"
                class="product-link">
 
                 <div class="product-card">
@@ -188,7 +188,7 @@
 
             </a>
             
-            <a href="../product/tungsten-rods-ingots.html"
+            <a href="../product/hp-tungsten-rods-ingots.html"
                class="product-link">
 
                 <div class="product-card">
@@ -246,9 +246,26 @@
                 </div>
 
             </a>
-
-            <a href="../product/hp-iron.html"
+            
+            <a href="../product/hp-nickel-wire.html"
                class="product-link">
+
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="../assets/images/hp-nickel-wire.jpg"
+                            alt="High Purity Nidkel Wire">
+                    </div>
+                    <h3>Nidkel Wire</h3>
+
+                    <p>
+                        Precision nickel wire
+                        for industrial applications.
+                    </p>
+
+                </div>
+
+            </a>
+            
 
                 <div class="product-card">
                     <div class="product-image">
@@ -264,29 +281,6 @@
 
                 </div>
 
-            </a>
-
-            <a href="../product/nickel-wire.html"
-               class="product-link">
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="../assets/images/nickel-wire.jpg"
-                            alt="Nickel Wire">
-                    </div>
-                    <h3>Nickel Wire</h3>
-
-                    <p>
-                        Precision nickel wire
-                        for industrial applications.
-                    </p>
-
-                </div>
-
-            </a>
-
-            <a href="../product/rhodium.html"
-              class="product-link">
 
                 <div class="product-card">
 
@@ -305,8 +299,6 @@
                     </p>
 
                 </div>
-
-            </a>
 
         </div>
 
