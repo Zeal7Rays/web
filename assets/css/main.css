@@ -930,11 +930,17 @@ nav a:hover {
 }
 
 /* ================= PACKAGING ================= */
+.packaging-image {
+
+    display: flex;
+    flex-direction: column;
+}
+
 .packaging-image img {
 
     width: 100%;
 
-    max-height: 220px;
+    max-height: 180px;
 
     object-fit: contain;
 
@@ -1697,9 +1703,7 @@ footer {
     
     .packaging-image img {
 
-        height: 180px;
-
-        object-fit: contain;
+        height: 160px;
     }
 
     .product-overview-images img {
