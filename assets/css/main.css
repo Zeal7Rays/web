@@ -1695,7 +1695,13 @@ footer {
         gap: 30px;
     }
     
-    .packaging-image img,
+    .packaging-image img {
+
+        height: 180px;
+
+        object-fit: contain;
+    }
+
     .product-overview-images img {
 
         height: auto;
