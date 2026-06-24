@@ -837,7 +837,7 @@ nav a:hover {
 
 .related-card img{
     width:100%;
-    height:100px;
+    aspect-ratio: 16 / 9;
     object-fit:cover;
 }
 
@@ -868,7 +868,6 @@ nav a:hover {
 }
 
 /* Product Overview */
-
 .product-overview {
 
     display: grid;
@@ -882,6 +881,39 @@ nav a:hover {
     margin-bottom: 40px;
 }
 
+.product-overview-single {
+
+    display: grid;
+
+    grid-template-columns: 320px 1fr;
+
+    gap: 50px;
+
+    align-items: start;
+
+    margin-bottom: 40px;
+}
+
+.product-overview-single-image {
+
+    max-width: 200px;
+
+    margin: 0 auto;
+}
+
+.product-overview-single-image img {
+
+    width: 100%;
+
+    height: 180px;
+
+    object-fit: contain;
+
+    border-radius: 12px;
+
+    display: block;
+}
+
 .product-overview-images {
 
     display: grid;
@@ -889,11 +921,6 @@ nav a:hover {
     grid-template-columns: repeat(2, 1fr);
 
     gap: 20px;
-}
-
-.overview-item {
-
-    text-align: center;
 }
 
 .product-overview-images img {
@@ -920,6 +947,8 @@ nav a:hover {
     font-weight: 600;
     
     object-fit: contain;
+    
+    text-align: center;
 }
 
 .product-overview-text p {
@@ -930,15 +959,64 @@ nav a:hover {
 }
 
 /* ================= PACKAGING ================= */
-.packaging-image img {
+.packaging-single-image {
+
+    max-width: 200px;
+
+    margin: 0 auto;
+}
+
+.packaging-single-image img {
 
     width: 100%;
 
-    max-height: 300px;
+    height: 180px;
 
     object-fit: contain;
 
     border-radius: 12px;
+
+    display: block;
+}
+
+.packaging-image {
+
+    display: grid;
+    
+    grid-template-columns: repeat(2, 1fr);
+    
+    gap: 20px;
+}
+
+.packaging-image img {
+
+    width: 100%;
+
+    height: 180px;
+
+    object-fit: contain;
+
+    border-radius: 12px;
+    
+    display: block;
+}
+
+.packaging-item {
+
+    text-align: center;
+}
+
+.packaging-item h4 {
+
+    margin-top: 12px;
+    
+    min-height: 44px;
+
+    font-size: 16px;
+
+    color: var(--navy);
+
+    font-weight: 600;
 }
 
 .packaging-single {
@@ -1430,7 +1508,6 @@ footer {
 }
 
 .response-time{
-    text-align:center;
     margin-top:20px;
     color:#666666;
     font-size:14px;
@@ -1687,6 +1764,27 @@ footer {
     .hero p{
 
         font-size:18px;
+    }
+    
+    .product-overview {
+
+        grid-template-columns: 1fr;
+
+        gap: 30px;
+    }
+    
+    .product-overview-images img {
+
+        height: 180px;
+
+        object-fit: cover;
+    }
+
+    .packaging-image img {
+
+        height: 160px;
+
+        object-fit: contain;
     }
     
     .footer-grid{
