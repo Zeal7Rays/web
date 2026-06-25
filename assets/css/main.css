@@ -1567,6 +1567,22 @@ footer {
 
 }
 
+.market-note {
+
+    max-width: 800px;
+
+    margin: 0 auto;
+
+    color: #666;
+
+    line-height: 1.8;
+}
+
+.market-note p {
+
+    margin-bottom: 18px;
+}
+
 
 
 .home-btn{
