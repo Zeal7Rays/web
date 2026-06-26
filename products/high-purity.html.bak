@@ -8,7 +8,7 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>
-        High Purity Materials Supplier
+        High Purity Materials Supplier | ZEAL 7RAYS KOREA
     </title>
 
     <meta name="description"
@@ -22,22 +22,6 @@
 <body>
 
 <header>
-
-<section class="breadcrumb">
-    <div class="container">
-
-        <a href="../index.html">Home</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products.html">Products</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <span>High Purity Materials</span>
-
-    </div>
-</section>
 
     <div class="container nav-wrapper">
 
@@ -60,22 +44,23 @@
 
                 <li class="dropdown">
 
-                  <a href="#" class="active">
+                  <a href="../products.html" class="active">
                      PRODUCTS
                   </a>
 
                 <ul class="dropdown-menu">
 
                    <li>
-                        <a href="../products/rare-earth.html">
-                           Rare Earth Materials
-                        </a>
-                   </li>
-
-                    <li>
-                      <a href="../products/high-purity.html" class="active">
+                      <a href="./products/high-purity.html">
                         High Purity Materials
                       </a>
+                    
+                    </li>
+
+                    <li>
+                        <a href="./products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
                     </li>
 
                     <li>
@@ -151,6 +136,24 @@
 
 </section>
 
+<!-- BREADCRUMB -->
+<section class="breadcrumb">
+    <div class="container">
+
+        <a href="../index.html">Home</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products.html">Products</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <span>High Purity Materials</span>
+
+    </div>
+</section>
+
+
 <section class="section">
 
     <div class="container">
@@ -162,7 +165,9 @@
             </h2>
 
             <p>
-                Explore our high-purity materials.
+                Explore our portfolio of high-purity metals,
+                powders and advanced materials for demanding
+                industrial and technological applications.
             </p>
 
         </div>
@@ -253,20 +258,20 @@
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/hp-nickel-wire.jpg"
-                            alt="High Purity Nidkel Wire">
+                            alt="High Purity Nickel Wire">
                     </div>
-                    <h3>Nidkel Wire</h3>
+                    <h3>Nickel Wire</h3>
 
                     <p>
-                        Precision nickel wire
-                        for industrial applications.
+                        Ultra-high purity nickel wire
+                        for semiconductor, electronics,
+                        research and industrial applications.
                     </p>
 
                 </div>
 
             </a>
             
-
                 <div class="product-card">
                     <div class="product-image">
                         <img src="../assets/images/hp-iron.jpg"
@@ -280,7 +285,6 @@
                     </p>
 
                 </div>
-
 
                 <div class="product-card">
 
@@ -323,8 +327,8 @@
             <div class="app-card">Semiconductor</div>
             <div class="app-card">Electronics</div>
             <div class="app-card">Aerospace</div>
-            <div class="app-card">Battery Materials</div>
-            <div class="app-card">Industrial Manufacturing</div>
+            <div class="app-card">Defense</div>
+            <div class="app-card">Advanced Manufacturing</div>
             <div class="app-card">Research & Development</div>
 
         </div>
