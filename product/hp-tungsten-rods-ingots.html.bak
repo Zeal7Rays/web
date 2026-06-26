@@ -29,28 +29,6 @@
 
 <header>
 
-<section class="breadcrumb">
-    <div class="container">
-
-        <a href="../index.html">Home</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products.html">Products</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products/high-purity.html">
-          High Purity Materials
-        </a>
-        
-        <span class="breadcrumb-sep">›</span>
-
-        <span>Tungsten Rods & Ingots</span>
-
-    </div>
-</section>
-
     <div class="container nav-wrapper">
 
         <div class="logo">
@@ -72,22 +50,23 @@
 
                 <li class="dropdown">
 
-                  <a href="#" class="active">
+                  <a href="../products.html" class="active">
                      PRODUCTS
                   </a>
 
                 <ul class="dropdown-menu">
 
                    <li>
-                        <a href="../products/rare-earth.html">
-                           Rare Earth Materials
-                        </a>
-                   </li>
-
-                    <li>
-                      <a href="../products/high-purity.html" class="active">
+                      <a href="./products/high-purity.html">
                         High Purity Materials
                       </a>
+                    
+                    </li>
+
+                    <li>
+                        <a href="./products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
                     </li>
 
                     <li>
@@ -166,6 +145,31 @@
     </div>
 
 </section>
+
+
+<!-- BREADCRUMB -->
+<section class="breadcrumb">
+    <div class="container">
+
+        <a href="../index.html">Home</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products.html">Products</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products/high-purity.html">
+          High Purity Materials
+        </a>
+        
+        <span class="breadcrumb-sep">›</span>
+
+        <span>Tungsten Rods & Ingots</span>
+
+    </div>
+</section>
+
 
 <!-- OVERVIEW -->
 
@@ -287,7 +291,7 @@
 </section>
 
 <!-- SPECIFICATION -->
-<section class="section bg-light">
+<section class="section">
 
     <div class="container">
 
@@ -356,7 +360,7 @@
 </section>
 
 
-<!-- COMPOSITION -->
+<!-- COMPOSITION --
 <section class="section bg-light">
 
     <div class="container">
@@ -376,11 +380,11 @@
     </div>
 
 </section>
-
+-->
 
 <!-- APPLICATIONS -->
 
-<section class="section">
+<section class="section bg-light">
 
     <div class="container">
 
@@ -473,7 +477,7 @@
 
 </section>
 
-<!-- MANUFACTURING FEATURES -->
+<!-- MANUFACTURING FEATURES --
 <section class="section bg-light">
 
     <div class="container">
@@ -536,7 +540,7 @@
     </div>
 
 </section>
-
+-->
 
 
 <!-- DOCUMENTS -->

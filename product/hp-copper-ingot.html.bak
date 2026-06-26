@@ -8,7 +8,7 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>
-        Copper Ingot Supplier | ZEAL 7RAYS KOREA
+        High Purity Copper Ingot | Oxygen-Free Copper Supplier | ZEAL 7RAYS KOREA
     </title>
 
     <meta name="description"
@@ -32,28 +32,6 @@
 
 <header>
 
-<section class="breadcrumb">
-    <div class="container">
-
-        <a href="../index.html">Home</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products.html">Products</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products/high-purity.html">
-          High Purity Materials
-        </a>
-        
-        <span class="breadcrumb-sep">›</span>
-
-        <span>Oxygen-Free Copper Ingots</span>
-
-    </div>
-</section>
-
     <div class="container nav-wrapper">
 
         <div class="logo">
@@ -75,22 +53,23 @@
 
                 <li class="dropdown">
 
-                  <a href="#" class="active">
+                  <a href="../products.html" class="active">
                      PRODUCTS
                   </a>
 
                 <ul class="dropdown-menu">
 
                    <li>
-                        <a href="../products/rare-earth.html">
-                           Rare Earth Materials
-                        </a>
-                   </li>
-
-                    <li>
-                      <a href="../products/high-purity.html" class="active">
+                      <a href="./products/high-purity.html">
                         High Purity Materials
                       </a>
+                    
+                    </li>
+
+                    <li>
+                        <a href="./products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
                     </li>
 
                     <li>
@@ -168,6 +147,30 @@
     </div>
 
 </section>
+
+<!-- BREADCRUMB -->
+<section class="breadcrumb">
+    <div class="container">
+
+        <a href="../index.html">Home</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products.html">Products</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products/high-purity.html">
+          High Purity Materials
+        </a>
+        
+        <span class="breadcrumb-sep">›</span>
+
+        <span>Oxygen-Free Copper Ingots</span>
+
+    </div>
+</section>
+
 
 <!-- OVERVIEW -->
 <section class="section">

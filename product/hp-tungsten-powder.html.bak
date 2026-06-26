@@ -29,28 +29,6 @@
 
 <header>
 
-<section class="breadcrumb">
-    <div class="container">
-
-        <a href="../index.html">Home</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products.html">Products</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products/high-purity.html">
-          High Purity Materials
-        </a>
-        
-        <span class="breadcrumb-sep">›</span>
-
-        <span>Tungsten Powder</span>
-
-    </div>
-</section>
-
     <div class="container nav-wrapper">
 
         <div class="logo">
@@ -72,22 +50,23 @@
 
                 <li class="dropdown">
 
-                  <a href="#" class="active">
+                  <a href="../products.html" class="active">
                      PRODUCTS
                   </a>
 
                 <ul class="dropdown-menu">
 
                    <li>
-                        <a href="../products/rare-earth.html">
-                           Rare Earth Materials
-                        </a>
-                   </li>
-
-                    <li>
-                      <a href="../products/high-purity.html" class="active">
+                      <a href="./products/high-purity.html">
                         High Purity Materials
                       </a>
+                    
+                    </li>
+
+                    <li>
+                        <a href="./products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
                     </li>
 
                     <li>
@@ -165,6 +144,29 @@
 
 </section>
 
+<!-- BREADCRUMB -->
+<section class="breadcrumb">
+    <div class="container">
+
+        <a href="../index.html">Home</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products.html">Products</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products/high-purity.html">
+          High Purity Materials
+        </a>
+        
+        <span class="breadcrumb-sep">›</span>
+
+        <span>Tungsten Powder</span>
+
+    </div>
+</section>
+
 <!-- OVERVIEW -->
 
 <section class="section">
@@ -219,8 +221,57 @@
 
 </section>
 
-<!-- SPECIFICATION -->
+<!-- KEY FEATURES -->
 <section class="section bg-light">
+
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Key Features</h2>
+        </div>
+
+        <div class="about-grid">
+
+            <div class="why-card">
+                <h3>Ultra-High Density</h3>
+                <p>
+                    Exceptional density for
+                    demanding industrial applications.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <h3>High Melting Point</h3>
+                <p>
+                    Outstanding thermal stability
+                    under extreme conditions.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <h3>Uniform Particle Size</h3>
+                <p>
+                    Consistent particle distribution
+                    and excellent flowability.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <h3>Corrosion Resistance</h3>
+                <p>
+                    Reliable performance in
+                    harsh environments.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- SPECIFICATION -->
+<section class="section">
 
     <div class="container">
 

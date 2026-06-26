@@ -19,7 +19,7 @@
 
     <link rel="canonical" href="https://www.z7rays.com/product/hp-nickel-wire.html">
     <link rel="stylesheet"
-          href="../assets/css/main.css?v=250624_5">
+          href="../assets/css/main.css?v=250624_7">
 
 </head>
 
@@ -28,28 +28,6 @@
 <!-- HEADER -->
 
 <header>
-
-<section class="breadcrumb">
-    <div class="container">
-
-        <a href="../index.html">Home</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products.html">Products</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products/high-purity.html">
-          High Purity Materials
-        </a>
-        
-        <span class="breadcrumb-sep">›</span>
-
-        <span>Nickel Wire</span>
-
-    </div>
-</section>
 
     <div class="container nav-wrapper">
 
@@ -72,22 +50,23 @@
 
                 <li class="dropdown">
 
-                  <a href="#" class="active">
+                  <a href="../products.html" class="active">
                      PRODUCTS
                   </a>
 
                 <ul class="dropdown-menu">
 
                    <li>
-                        <a href="../products/rare-earth.html">
-                           Rare Earth Materials
-                        </a>
-                   </li>
-
-                    <li>
-                      <a href="../products/high-purity.html" class="active">
+                      <a href="./products/high-purity.html">
                         High Purity Materials
                       </a>
+                    
+                    </li>
+
+                    <li>
+                        <a href="./products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
                     </li>
 
                     <li>
@@ -165,6 +144,31 @@
     </div>
 
 </section>
+
+
+<!-- BREADCRUMB -->
+<section class="breadcrumb">
+    <div class="container">
+
+        <a href="../index.html">Home</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products.html">Products</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products/high-purity.html">
+          High Purity Materials
+        </a>
+        
+        <span class="breadcrumb-sep">›</span>
+
+        <span>Nickel Wire</span>
+
+    </div>
+</section>
+
 
 <!-- OVERVIEW -->
 <section class="section">
@@ -437,11 +441,9 @@
 
             <div class="doc-card">COA</div>
 
-            <div class="doc-card">Test Report</div>
+            <div class="doc-card">MSDS</div>
 
-            <div class="doc-card">Packing List</div>
-            
-            <div class="doc-card">Inventory List</div>
+            <div class="doc-card">TDS</div>
 
             <div class="doc-card">Certificate of Origin</div>
 

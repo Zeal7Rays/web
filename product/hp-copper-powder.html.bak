@@ -17,7 +17,7 @@
     <meta name="keywords"
           content="Copper Powder, Ultrafine Copper Powder, High Purity Copper, Copper Powder Supplier, Semiconductor Copper Powder, Electronic Materials, Metal Powders, Advanced Manufacturing Materials">
     
-    <link rel="canonical" href="https://www.z7rays.com/product/tungsten-powder.html">
+    <link rel="canonical" href="https://www.z7rays.com/product/hp-copper-powder.html">
     <link rel="stylesheet"
           href="../assets/css/main.css?v=250624_5">
 
@@ -28,28 +28,6 @@
 <!-- HEADER -->
 
 <header>
-
-<section class="breadcrumb">
-    <div class="container">
-
-        <a href="../index.html">Home</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products.html">Products</a>
-
-        <span class="breadcrumb-sep">›</span>
-
-        <a href="../products/high-purity.html">
-          High Purity Materials
-        </a>
-        
-        <span class="breadcrumb-sep">›</span>
-
-        <span>Copper Powder</span>
-
-    </div>
-</section>
 
     <div class="container nav-wrapper">
 
@@ -79,15 +57,16 @@
                 <ul class="dropdown-menu">
 
                    <li>
-                        <a href="../products/rare-earth.html">
-                           Rare Earth Materials
-                        </a>
-                   </li>
-
-                    <li>
-                      <a href="../products/high-purity.html" class="active">
+                      <a href="./products/high-purity.html">
                         High Purity Materials
                       </a>
+                    
+                    </li>
+
+                    <li>
+                        <a href="./products/rare-earth.html">
+                           Rare Earth Materials
+                        </a>
                     </li>
 
                     <li>
@@ -165,6 +144,30 @@
     </div>
 
 </section>
+
+
+<section class="breadcrumb">
+    <div class="container">
+
+        <a href="../index.html">Home</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products.html">Products</a>
+
+        <span class="breadcrumb-sep">›</span>
+
+        <a href="../products/high-purity.html">
+          High Purity Materials
+        </a>
+        
+        <span class="breadcrumb-sep">›</span>
+
+        <span>Copper Powder</span>
+
+    </div>
+</section>
+
 
 <!-- OVERVIEW -->
 <section class="section">
